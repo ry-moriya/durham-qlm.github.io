@@ -14,10 +14,11 @@ author: "Quantum Light and Matter Group, Durham University"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Join Us: "aboutme"
+  Join Us: "join"
   Research:
     - Theory: "https://www.dur.ac.uk/qlm/"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Members: "https://www.dur.ac.uk/qlm/"
   Publications: "https://www.dur.ac.uk/qlm/"
 
 # --- Logo --- #
