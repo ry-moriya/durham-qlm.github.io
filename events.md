@@ -1,16 +1,11 @@
 ---
 layout: page
-title: Join QLM
-subtitle: Opportunities to join as PhD students, Postdocs, or Staff
+title: QLM Events 
+subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming events are listed here.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#2021/2022 Seminars
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+|Date   |Speaker    |Institution    |
+|:---   | :----:      |           --: |
+|22/05/2022 |A. Einstein    |Princeton  |
