@@ -15,11 +15,18 @@ author: "Quantum Light and Matter Group, Durham University"
 
 navbar-links:
   Join Us: "join"
-  Research:
-    - Theory: "https://www.dur.ac.uk/qlm/"
+  Research Themes:
+    - Quantum Fluids and Atom-Light Interactions: "https://www.dur.ac.uk/qlm/"
+    - Cold Molecules: "https://www.dur.ac.uk/qlm/"
+    - Quantum Computing: "https://www.dur.ac.uk/qlm/"
+    - Rydberg Systems: "https://www.dur.ac.uk/qlm/"
+    - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
+    - Thermal Vapours: "https://www.dur.ac.uk/qlm/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Members: "https://www.dur.ac.uk/qlm/"
+  EDI: "https://www.dur.ac.uk/qlm/"
+  Events: "https://www.dur.ac.uk/qlm/"
   Publications: "https://www.dur.ac.uk/qlm/"
+  Outreach: "https://www.dur.ac.uk/qlm/"
 
 # --- Logo --- #
 
