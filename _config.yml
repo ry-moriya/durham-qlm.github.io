@@ -9,17 +9,17 @@
 title: "Durham QLM" 
 
 # Your name to show in the footer
-author: "Durham QLM"
+author: "Quantum Light and Matter Group, Durham University"
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Join Us: "aboutme"
   Research:
-    - Theory: "https://beautifuljekyll.com"
-      - Nest:  "https://beautifuljekyll.com"
+    - Theory: "https://www.dur.ac.uk/qlm/"
+      - Nest:  "https://www.dur.ac.uk/qlm/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications: "https://deanattali.com"
+  Publications: "https://www.dur.ac.uk/qlm/"
 
 # --- Logo --- #
 
@@ -40,13 +40,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "s.a.wrathmall@durham.ac.uk"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+    #  facebook: deanattali
+  github: Quantum-Light-and-Matter
+  twitter: @DurhamQLM
+    #patreon: DeanAttali
+  youtube: https://www.youtube.com/channel/UCb9MOi4lcNntMLo15oG8Z7A
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -77,13 +77,13 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "QLM.org.uk"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
