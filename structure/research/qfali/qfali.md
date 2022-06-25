@@ -5,7 +5,7 @@ subtitle:
 ---
 
 <img src="/assets/img/qfali_1.png" alt="QFALI" />
-<img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall" width=95%>
+<img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall"/>
 
 Our theoretical study of quantum fluids — in particular Bose-Einstein condensation
 — is being used to further our understanding and use of novel quantum
