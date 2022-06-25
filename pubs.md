@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QLM Publications
+title: 
 subtitle: List of publications from QLM members
 ---
 {% include publications %}
