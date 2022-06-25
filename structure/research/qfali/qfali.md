@@ -64,7 +64,7 @@ with researchers at Newcastle University.
 	    </tr>
 	  </table>
 
-
+<img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall" width=95%>
 <h3>Current members</h3>
 <table border=0>
     <tr>
