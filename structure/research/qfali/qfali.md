@@ -22,6 +22,23 @@ atomtronics.</li>
 We are a part of the Joint Quantum Centre Durham–Newcastle, and we collaborate
 with researchers at Newcastle University.
 
+|||
+|--- |--- |
+||Soliton interferometry with very narrow barriers obtained from spatially dependent dressed states
+            Callum L. Grimshaw, Thomas P. Billam, Simon A. Gardiner
+	            ArXiv
+	            Bright solitons in atomic Bose-Einstein condensates are a strong candidate for high precision matter-wave interferometry, as their inherent stability against dispersion supports long interrogation times. One analog to a beam splitter for these solitons is a narrow potential barrier. A very narrow barrier is desirable for interferometric purposes, but the width in a typical realisation, using a blue-detuned optical dipole potential, is limited by the wavelength of the laser light. We investigate a soliton interferometry scheme using the geometric scalar potential experienced by atoms in a spatially dependent dark state to overcome this limit. We propose a possible implementation and numerically probe the effects of deviations from the ideal configuration.|
+||Roadmap on Atomtronics: State of the art
+            and perspective
+	            L. Amico, M. Boshier, G. Birkl, et al.
+	            AVS Quantum Sci. 3 039201 (2021)
+	            Atomtronics deals with matter-wave circuits of ultra-cold atoms manipulated through magnetic or laser-generated guides with different shapes and intensities. In this way, new types of quantum networks can be constructed, in which coherent fluids are controlled with the know-how developed in the atomic and molecular physics community. In particular, quantum devices with enhanced precision, control and flexibility of their operating conditions can be accessed. Concomitantly, new quantum simulators and emulators harnessing on the coherent current flows can also be developed. Here, we survey the landscape of atomtronics-enabled quantum technology and draw a roadmap for the field in the near future. We review some of the latest progresses achieved in matter-wave circuits design and atom-chips. Atomtronic networks are deployed as promising platforms for probing many-body physics with a new angle and a new twist. The latter can be done both at the level of equilibrium and non-equilibrium situations. Numerous relevant problems in mesoscopic physics, like persistent currents and quantum transport in circuits of fermionic or bosonic atoms, are studied through a new lens. We summarize some of the atomtronics quantum devices and sensors. Finally, we discuss alkali-earth and Rydberg atoms as potential platforms for the realization of atomtronic circuits with special features.|
+||Collective effects in the photon statistics of thermal atomic ensembles
+            Sofia Ribeiro, Thomas F. Cutler, Charles S. Adams, and Simon A. Gardiner
+	            Phys. Rev. A 104 013719 (2021)
+	            We investigate the collective scattering of coherent light from a thermal alkali-metal vapor with temperatures ranging from 350 to 450 K, corresponding to average atomic spacings between 0.7λ and 0.1λ. We develop a theoretical model treating the atomic ensemble as coherent, interacting, radiating dipoles. We show that the two-time second-order correlation function of a thermal ensemble can be described by an average of randomly positioned atomic pairs. Our model illustrates good qualitative agreement with the experimental results. Furthermore, we show how fine-tuning of the experimental parameters may make it possible to explore several photon statistics regimes.|
+
+
 <table border=0 width=100%>
 	    <tr>
 	        <td width=33%><img src="https://www.dur.ac.uk/images/QLM/fluids/papers/soliton_interferometry.png" width=100%/></td>
