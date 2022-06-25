@@ -6,7 +6,7 @@ subtitle: Current (maybe want to include former members on other page?)
 |Role|	Name (clickable link to Durham)?|
 |---|---|
 |Head of Section:	|Prof Charles Stuart Adams|
-|	|Staff:	Dr David Carty|
+|Staff:	|Dr David Carty|
 |	|Dr Nicholas Chancellor|
 |	|Prof Simon Cornish|
 |	|Prof David Flower|
