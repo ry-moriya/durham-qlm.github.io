@@ -23,10 +23,10 @@ navbar-links:
     - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
     - Thermal Vapours: "https://www.dur.ac.uk/qlm/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  EDI: "https://www.dur.ac.uk/qlm/"
+  EDI: "https://www.dur.ac.uk/qlm/edi/"
   Events: "events"
-  Publications: "https://www.dur.ac.uk/qlm/"
-  Outreach: "https://www.dur.ac.uk/qlm/"
+  Publications: "pubs.md"
+  Outreach: "https://www.dur.ac.uk/qlm/outreach/"
 
 # --- Logo --- #
 
