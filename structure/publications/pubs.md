@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: List of publications from QLM members
+title: Publications
+subtitle: List of publications from QLM members, ordered new to old
 ---
 {% include publications %}
 
