@@ -21,18 +21,21 @@ navbar-links:
     - PhD funding: "structure/join/phdfunding"
     - Current students: "structure/join/currentstudents"
   Research Themes:
-    - Quantum Fluids and Atom-Light Interactions: "qfali"
+    - Quantum Fluids and Atom-Light Interactions: "structure/research/qfali/qfali"
     - Cold Molecules: "https://www.dur.ac.uk/qlm/"
     - Quantum Computing: "https://www.dur.ac.uk/qlm/"
     - Rydberg Systems: "https://www.dur.ac.uk/qlm/"
     - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
     - Thermal Vapours: "https://www.dur.ac.uk/qlm/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    
   EDI: "https://www.dur.ac.uk/qlm/edi/"
-  Events: "events"
-  Publications: "pubs"
+  Events: "structure/events/events"
+  Publications: "structure/publications/pubs"
   Outreach: "https://www.dur.ac.uk/qlm/outreach/"
-  Members: "members"
+  Members: 
+    - Current: "structure/members/members"
+    - Previous: "structure/members/prev_members"
+    - Learn markdown: "https://www.markdowntutorial.com/"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
