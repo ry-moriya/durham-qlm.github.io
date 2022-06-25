@@ -31,7 +31,7 @@ navbar-links:
   EDI: "atructure/edi/edi/"
   Events: "structure/events/events"
   Publications: "structure/publications/pubs"
-  Outreach: "https://www.dur.ac.uk/qlm/outreach/"
+  Outreach: "structure/outreach/outreach"
   Members: 
     - Current: "structure/members/members"
     - Previous: "structure/members/prev_members"
