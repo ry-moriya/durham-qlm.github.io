@@ -6,8 +6,6 @@ subtitle:
 
 <img src="/assets/img/qfali_1.png" alt="QFALI" />
 
-<details>
-<summary><h4>Research interests</h4></summary>
 
 Our theoretical study of quantum fluids — in particular Bose-Einstein condensation
 — is being used to further our understanding and use of novel quantum
@@ -24,12 +22,7 @@ atomtronics.</li>
 We are a part of the Joint Quantum Centre Durham–Newcastle, and we collaborate
 with researchers at Newcastle University.
 
-</details>
-
-<details>
-<summary>Publications</summary>
-
-	<table border=0 width=100%>
+<table border=0 width=100%>
 	    <tr>
 	        <td width=33%><img src="https://www.dur.ac.uk/images/QLM/fluids/papers/soliton_interferometry.png" width=100%></td>
 	        <td><b>Soliton interferometry with very narrow barriers obtained from spatially dependent dressed states</b></br>
@@ -54,10 +47,8 @@ with researchers at Newcastle University.
 	    </tr>
 	  </table>
 
-</details>
 
-<details>
-<summary><h3>Current members</h3></summary>
+<h3>Current members</h3>
 <table border=0>
     <tr>
         <td width=105 align=center><img src="https://www.dur.ac.uk/images/profiles/2360/GardinerS.jpg" alt="Simon Gardiner" width=95%></td>
@@ -96,4 +87,3 @@ with researchers at Newcastle University.
 </table>
 
 
-</details>
