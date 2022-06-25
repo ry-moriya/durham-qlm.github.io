@@ -25,7 +25,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   EDI: "https://www.dur.ac.uk/qlm/edi/"
   Events: "events"
-  Publications: "pubs.md"
+  Publications: "pubs"
   Outreach: "https://www.dur.ac.uk/qlm/outreach/"
 
 # --- Logo --- #
