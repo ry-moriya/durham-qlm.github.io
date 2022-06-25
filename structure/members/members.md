@@ -15,7 +15,7 @@ subtitle: Current (maybe want to include former members on other page?)
 |	|Prof. Matthew Jones|
 |	|Dr Robert Potvliege|
 |	|Prof. Kevin Weatherill|
-|	|Dr Steven Wrathmall|
+|	|[Dr Steven Wrathmall](/structure/members/current/saw/saw)|
 |Research Associates:|	Dr Sarah Bromley|
 |	|Dr Shuying Chen|
 |	|Dr Lucy Downes|
