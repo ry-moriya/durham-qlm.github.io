@@ -24,7 +24,7 @@ with researchers at Newcastle University.
 
 <table border=0 width=100%>
 	    <tr>
-	        <td width=33%><img src="https://www.dur.ac.uk/images/QLM/fluids/papers/soliton_interferometry.png" width=100%></td>
+	        <td width=33%><img src="https://www.dur.ac.uk/images/QLM/fluids/papers/soliton_interferometry.png" width=100%/></td>
 	        <td><b>Soliton interferometry with very narrow barriers obtained from spatially dependent dressed states</b></br>
 	            Callum L. Grimshaw, Thomas P. Billam, Simon A. Gardiner</br>
 	            <a href="https://arxiv.org/abs/2104.11511">ArXiv</a></p>
@@ -51,7 +51,7 @@ with researchers at Newcastle University.
 <h3>Current members</h3>
 <table border=0>
     <tr>
-        <td width=105 align=center><img src="https://www.dur.ac.uk/images/profiles/2360/GardinerS.jpg" alt="Simon Gardiner" width=95%></td>
+        <td width=105 align=center><img src="https://www.dur.ac.uk/images/profiles/2360/GardinerS.jpg" alt="Simon Gardiner" width=95%/></td>
         <td><b>Prof. Simon Gardiner</b></p>
             <a href="https://www.durham.ac.uk/staff/s-a-gardiner/">Profile</a> |
             <a href="https://orcid.org/0000-0001-5939-4612">ORCID</a>
@@ -69,12 +69,6 @@ with researchers at Newcastle University.
         <td><b>Jack Griffiths</b></p>
             <a href="https://www.durham.ac.uk/staff/jack-griffiths/">Profile</a> |
             <a href="https://orcid.org/0000-0001-7794-6687">ORCID</a>
-        </td>
-    </tr>
-    <tr>
-        <td width=105 align=center></td>
-        <td><b>Callum Grimshaw</b></p>
-            <a href="https://www.durham.ac.uk/staff/callum-l-grimshaw/">Profile</a>
         </td>
     </tr>
     <tr>
