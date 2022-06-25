@@ -27,3 +27,10 @@ The Department of Physics is pleased to announce the launch of the Stubbs Schola
 The Scholarship will provide full fees and stipend for postgraduate study in the field of ‘Quantum Light and Matter’ in the Department of Physics.
 
 We are deeply grateful for the support of Rodney and Frances and their ongoing involvement in the Physics Department.
+
+<details>
+<summary>Click to expand</summary>
+
+whatever
+
+</details>
