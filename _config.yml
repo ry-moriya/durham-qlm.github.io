@@ -28,7 +28,7 @@ navbar-links:
     - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
     - Thermal Vapours: "https://www.dur.ac.uk/qlm/"
     
-  EDI: "https://www.dur.ac.uk/qlm/edi/"
+  EDI: "atructure/edi/edi/"
   Events: "structure/events/events"
   Publications: "structure/publications/pubs"
   Outreach: "https://www.dur.ac.uk/qlm/outreach/"
