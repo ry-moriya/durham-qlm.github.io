@@ -47,7 +47,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "s.a.wrathmall@durham.ac.uk"
+  email: "durham.qlm@durham.ac.uk"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
     #  facebook: deanattali
   github: Quantum-Light-and-Matter
@@ -70,14 +70,14 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: iHJKYjIAAAAJ
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: RSS feed for Durham QLM
 
 # --- General options --- #
 
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "QLM.org.uk"
+url-pretty: "durham-qlm.org"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
