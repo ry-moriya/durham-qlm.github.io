@@ -27,7 +27,7 @@ with researchers at Newcastle University.
 </details>
 
 <details>
-<summary>Recent publications (2021)</summary>
+<summary><h3>Recent publications (2021)<h3></summary>
 
 <table border=0 width=100%>
     <tr>
