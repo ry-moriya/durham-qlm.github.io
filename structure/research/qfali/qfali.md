@@ -7,7 +7,7 @@ subtitle:
 <img src="/assets/img/qfali_1.png" alt="QFALI" />
 
 <details>
-<summary><h3>Research interests</h3></summary>
+<summary><h4>Research interests</h4></summary>
 
 Our theoretical study of quantum fluids — in particular Bose-Einstein condensation
 — is being used to further our understanding and use of novel quantum
@@ -26,8 +26,9 @@ with researchers at Newcastle University.
 
 </details>
 
-<button type="button" class="collapsible"><h3>Recent publications (2021)</h3></button>
-<div class="content">
+<details>
+<summary>Publications</summary>
+
 	<table border=0 width=100%>
 	    <tr>
 	        <td width=33%><img src="https://www.dur.ac.uk/images/QLM/fluids/papers/soliton_interferometry.png" width=100%></td>
@@ -52,11 +53,6 @@ with researchers at Newcastle University.
 	            We investigate the collective scattering of coherent light from a thermal alkali-metal vapor with temperatures ranging from 350 to 450 K, corresponding to average atomic spacings between 0.7λ and 0.1λ. We develop a theoretical model treating the atomic ensemble as coherent, interacting, radiating dipoles. We show that the two-time second-order correlation function of a thermal ensemble can be described by an average of randomly positioned atomic pairs. Our model illustrates good qualitative agreement with the experimental results. Furthermore, we show how fine-tuning of the experimental parameters may make it possible to explore several photon statistics regimes.</td>
 	    </tr>
 	  </table>
-</div>
-<details>
-<summary></summary>
-
-<
 
 </details>
 
