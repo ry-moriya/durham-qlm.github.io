@@ -5,7 +5,6 @@ subtitle:
 ---
 
 <img src="/assets/img/qfali_1.png" alt="QFALI" />
-<img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall"/>
 
 Our theoretical study of quantum fluids — in particular Bose-Einstein condensation
 — is being used to further our understanding and use of novel quantum
@@ -21,6 +20,10 @@ atomtronics.</li>
 </ul>
 We are a part of the Joint Quantum Centre Durham–Newcastle, and we collaborate
 with researchers at Newcastle University.
+
+<h4> Papers of interest </h4>
+<details open>
+<summary>Click to open</summary>
 
 <table border=0>
 	    <tr>
@@ -47,6 +50,9 @@ with researchers at Newcastle University.
 	    </tr>
 	  </table>
 
+</details>
+
+<h4> Members </h4>
 <img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall" width=95%>
 <h3>Current members</h3>
 <table border=0>
