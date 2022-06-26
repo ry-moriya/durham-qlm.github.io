@@ -22,7 +22,7 @@ We are a part of the Joint Quantum Centre Durham–Newcastle, and we collaborate
 with researchers at Newcastle University.
 
 <h4> Papers of interest </h4>
-<details open>
+<details>
 <summary>Click to open</summary>
 
 <table border=0>
@@ -52,9 +52,10 @@ with researchers at Newcastle University.
 
 </details>
 
-<h4> Members </h4>
-<img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall" width=95%>
-<h3>Current members</h3>
+<h4> Current Members </h4>
+<details>
+<summary>Click to open</summary>
+
 <table border=0>
     <tr>
         <td width=105 align=center><img src="https://www.dur.ac.uk/images/profiles/2360/GardinerS.jpg" alt="Simon Gardiner"/></td>
@@ -86,4 +87,5 @@ with researchers at Newcastle University.
     </tr>
 </table>
 
+</details>
 
