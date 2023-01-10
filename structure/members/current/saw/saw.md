@@ -8,11 +8,9 @@ subtitle:
 <img src="https://www.dur.ac.uk/images/profiles/14669/Wrathmall.jpg" alt="Steven Wrathmall"/>
 
 ### Biography
-Blah Blah
-
+This is a sample template. You would insert biographical information here.
 ### Research Interests
-Blah Blah
-
+You can talk about your research interests here.
 ### Publications of interest
 
 
