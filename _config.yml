@@ -27,14 +27,14 @@ navbar-links:
 #    - Current students: "structure/join/currentstudents"
   News: "structure/news/news"
   Research Themes:
-    - Quantum Fluids and Atom-Light Interactions: "structure/research/qfali/qfali"
+    - Quantum Fluids and Atom-Light Interactions: "structure/research/qfali"
     - Cold Molecules: "https://www.dur.ac.uk/qlm/"
     - Quantum Computing: "https://www.dur.ac.uk/qlm/"
     - Rydberg Systems: "https://www.dur.ac.uk/qlm/"
     - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
     - Thermal Vapours: "https://www.dur.ac.uk/qlm/"  
-  EDI: "structure/edi/edi/"
-  Events: "structure/events/events"
+  EDI: "structure/edi/"
+  Events: "structure/events"
   Publications: "structure/publications/pubs"
   Outreach: "structure/outreach/outreach"
   Members: 
