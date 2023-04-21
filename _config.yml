@@ -35,7 +35,7 @@ navbar-links:
     - Thermal Vapours: "https://www.dur.ac.uk/qlm/"  
   EDI: "structure/edi/"
   Events: "structure/events"
-  Publications: "structure/publications/pubs"
+  Publications: "structure/publications/"
   Outreach: "structure/outreach/outreach"
   Members: 
     - Current: "structure/members/current"
