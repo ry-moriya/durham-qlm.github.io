@@ -38,7 +38,7 @@ navbar-links:
   Publications: "structure/publications/pubs"
   Outreach: "structure/outreach/outreach"
   Members: 
-    - Current: "structure/members/members"
+    - Current: "structure/members/"
     - Previous: "structure/members/prev_members"
     - Learn markdown: "https://www.markdowntutorial.com/"
 # --- Logo --- #
