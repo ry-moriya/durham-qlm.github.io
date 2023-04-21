@@ -1,5 +1,7 @@
 ---
 layout: home
-title: QLM blog
+title: QLM News
 subtitle: Latest news from the group
 ---
+
+
