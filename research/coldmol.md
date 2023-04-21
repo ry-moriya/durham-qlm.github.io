@@ -25,43 +25,43 @@ The new and improved understanding achieved through this project can be used to 
 <table border=0>
     <tr>
         <td>
-            <a href="coldmol/rbcs/">Controlling Ground State RbCs Molecules</a>
+            <a href="coldmol/rbcs">Controlling Ground State RbCs Molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/rbcs.jpg" alt="RbCs"/></td>
     </tr>
     <tr>
         <td>
-            <a href="coldmol/csyb/">CsYb: Magnetic Polar Molecules</a>
+            <a href="coldmol/csyb">CsYb: Magnetic Polar Molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/csyb.jpg" alt="CsYb"/></td>
     </tr>
     <tr>
         <td>
-            <a href="coldmol/kcs/">Fermionic Molecules of KCs</a>
+            <a href="coldmol/kcs">Fermionic Molecules of KCs</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/kcs.jpg" alt="KCs"/></td>
     </tr>
     <tr>
         <td>
-            <a href="coldmol/tweezers/">Molecules in Tweezers</a>
+            <a href="coldmol/tweezers">Molecules in Tweezers</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/tweezers.jpg" alt="Tweezers"/></td>
     </tr>
     <tr>
         <td>
-            <a href="coldmol/rydberg_mol/">Rydberg Molecules</a>
+            <a href="coldmol/rydberg_mol">Rydberg Molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/rydberg_mol.jpg" alt="Rydberg molecules"/></td>
     </tr>
     <tr>
         <td>
-            <a href="coldmol/gas_microscope/">Quantum Gas Microscope</a>
+            <a href="coldmol/gas_microscope">Quantum Gas Microscope</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/gas_microscope.jpg" alt="Gas microscope"/></td>
     </tr>
     <tr>
         <td>
-            <a href="coldmol/prec_pot/">Precision Interaction Potentials</a>
+            <a href="coldmol/prec_pot">Precision Interaction Potentials</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/prec_pot.jpg" alt="Precision potentials"/></td>
     </tr>
