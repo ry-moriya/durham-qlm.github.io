@@ -13,5 +13,5 @@ This is a sample template. You would insert biographical information here.
 You can talk about your research interests here.
 ### Publications of interest
 
-{% include_relative saw/publications limit=3%}
+{% include_relative saw/publications year="2022;2023" %}
 
