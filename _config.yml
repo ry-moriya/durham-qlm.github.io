@@ -36,7 +36,7 @@ navbar-links:
   EDI: "edi/"
   Events: "events"
   Publications: "publications/"
-  Outreach: "outreach/outreach"
+  Outreach: "outreach/"
   Members: 
     - Current: "members/current"
     - Previous: "members/prev_members"
