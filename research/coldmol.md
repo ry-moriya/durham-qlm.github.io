@@ -25,7 +25,7 @@ The new and improved understanding achieved through this project can be used to 
 <table border=0>
     <tr>
         <td>
-            <a href="coldmol/rbcs">Controlling Ground State RbCs Molecules</a>
+            <a href="coldmol/rbcs.md">Controlling Ground State RbCs Molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/img/rbcs.jpg" alt="RbCs"/></td>
     </tr>
