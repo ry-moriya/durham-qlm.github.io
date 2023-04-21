@@ -1,4 +1,4 @@
-{% assign pub_list = site.data.cite.saw.citations_saw | sort: "Year" | reverse %}
+{% assign pub_list = page.path.saw.citations_saw | sort: "Year" | reverse %}
 {% assign style = include.style | downcase | default: "apa" %}
 {% assign include_link = include.link %}
 
