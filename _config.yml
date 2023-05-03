@@ -32,7 +32,9 @@ navbar-links:
     - Quantum Computing: "https://www.dur.ac.uk/qlm/"
     - Rydberg Systems: "https://www.dur.ac.uk/qlm/"
     - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
-    - Thermal Vapours: "https://www.dur.ac.uk/qlm/"  
+    - Thermal Vapours: "https://www.dur.ac.uk/qlm/"
+  Groups:
+    - Cornish Group: "https://cornishgroup.github.io/"
   EDI: "edi/"
   Events: "events"
   Publications: "publications/"
