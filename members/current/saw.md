@@ -9,7 +9,7 @@ subtitle:
 
 ### Biography
 This is a sample template. You would insert biographical information here.
-### Research Interests
+### Research interests
 You can talk about your research interests here.
 ### Publications of interest
 
