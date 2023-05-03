@@ -13,6 +13,8 @@ To advance your research, you will have access to several excellent facilities i
 
 In QLM’s shared, open-plan office, you will be work alongside QLM postgraduate students and postdoctoral researchers who are always happy to offer you expert advice, as well as a good laugh. This social aspect extends beyond physics as well: you won’t want to miss our weekly cake club and Friday evening meetups!
 
+<img src="./img/cohort.jpg.jpg" alt="Cohort 2018-19">
+
 In your second year, you will have the opportunity to take part in physics outreach, where you, with your cohort, will design QLM-related outreach activities for a general audience. QLM hosts weekly group meetings, where postgraduates and postdoctoral researchers present the state of their research. These are an excellent way to learn more about QLM outside of your particular focus, and to see what other members of the group are working on. After your first year, you will have the opportunity to improve your own presentation skills and share your work by presenting at meetings yourself.
 
 The group also holds weekly seminars in which an external speaker is invited to present their research to the group. You will have the opportunity to interact with experts from universities across the country and further afield. You’ll also have the opportunity to attend summer schools and conferences abroad, where you will meet and interact with peers in your field.
@@ -28,4 +30,5 @@ The Scholarship will provide full fees and stipend for postgraduate study in the
 
 We are deeply grateful for the support of Rodney and Frances and their ongoing involvement in the Physics Department.
 
+<img src="./img/StubbsScholarship.jpg" alt="Cohort 2018-19">
 
