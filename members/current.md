@@ -5,18 +5,18 @@ subtitle: Current (maybe want to include former members on other page?)
 ---
 |Role|	Name (clickable link to Durham)?|
 |---|---|
-|Head of Section:	|Prof Charles Stuart Adams|
-|Staff:	|Dr David Carty|
-|	|Dr Nicholas Chancellor|
-|	|Prof Simon Cornish|
-|	|Prof David Flower|
-|	|Professor Simon Gardiner|
-|	|Prof Ifan Hughes|
+|Head of Section:	|[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
+|Staff:	|Prof. Stuart Adams|    
+|   |Dr. David Carty|
+|	|Dr. Nicholas Chancellor|
+|	|Prof. Simon Cornish|
+|	|Prof. David Flower|
+|	|Prof. Simon Gardiner|
 |	|Prof. Matthew Jones|
-|	|Dr Robert Potvliege|
+|	|Dr. Robert Potvliege|
 |	|Prof. Kevin Weatherill|
 |	|Dr. Hannah Williams|
-|	|[Dr Steven Wrathmall](current/saw)|
+|	|[Dr. Steven Wrathmall](current/saw)|
 |Research Associates:|	Dr Sarah Bromley|
 |	|Dr Shuying Chen|
 |	|Dr Lucy Downes|
