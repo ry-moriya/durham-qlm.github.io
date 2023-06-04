@@ -5,7 +5,7 @@ subtitle: Current (maybe want to include former members on other page?)
 ---
 |Role|	Name (with link to Departmental page)|
 |---|---|
-|Head of Section:	|Prof. Ifan Hughes [(Dept.)](https://www.durham.ac.uk/staff/i-g-hughes/)|
+|Head of Section:	|[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
 |Research Project Coordinator:	|[Lisa Qiao](https://www.durham.ac.uk/staff/liang-qiao/)|
 |Staff:	|[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|    
 |   |[Dr. David Carty](https://www.durham.ac.uk/staff/david-carty/)|
