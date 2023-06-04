@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members 
-subtitle: Current (maybe want to include former members on other page?)
+subtitle: Current members of the Durham QLM group
 ---
 |Role|	Name (with link to Departmental page)|
 |---|---|
