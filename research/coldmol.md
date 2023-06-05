@@ -25,33 +25,27 @@ The new and improved understanding achieved through this project can be used to 
 <table border=0>
     <tr>
         <td>
-            <a href="coldmol/rbcs.md">Controlling Ground State RbCs Molecules</a>
+            <a href="coldmol/rbcs">Controlling Ground State RbCs Molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/img/rbcs.jpg" alt="RbCs"/></td>
+        <td width=105 align=center><img src="coldmol/groundstate/img/rbcs.jpg" alt="RbCs"/></td>
     </tr>
     <tr>
         <td>
             <a href="coldmol/csyb">CsYb: Magnetic Polar Molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/img/csyb.jpg" alt="CsYb"/></td>
+        <td width=105 align=center><img src="coldmol/polar/img/csyb.jpg" alt="CsYb"/></td>
     </tr>
     <tr>
         <td>
             <a href="coldmol/kcs">Fermionic Molecules of KCs</a>
         </td>
-        <td width=105 align=center><img src="coldmol/img/kcs.jpg" alt="KCs"/></td>
+        <td width=105 align=center><img src="coldmol/fermionic/img/kcs.jpg" alt="KCs"/></td>
     </tr>
     <tr>
         <td>
             <a href="coldmol/tweezers">Molecules in Tweezers</a>
         </td>
-        <td width=105 align=center><img src="coldmol/img/tweezers.jpg" alt="Tweezers"/></td>
-    </tr>
-    <tr>
-        <td>
-            <a href="coldmol/rydberg_mol">Rydberg Molecules</a>
-        </td>
-        <td width=105 align=center><img src="coldmol/img/rydberg_mol.jpg" alt="Rydberg molecules"/></td>
+        <td width=105 align=center><img src="coldmol/tweezers/img/tweezers.jpg" alt="Tweezers"/></td>
     </tr>
     <tr>
         <td>
@@ -63,7 +57,25 @@ The new and improved understanding achieved through this project can be used to 
         <td>
             <a href="coldmol/prec_pot">Precision Interaction Potentials</a>
         </td>
-        <td width=105 align=center><img src="coldmol/img/prec_pot.jpg" alt="Precision potentials"/></td>
+        <td width=105 align=center><img src="coldmol/potentials/img/prec_pot.jpg" alt="Precision potentials"/></td>
     </tr>
+     <tr>
+        <td>
+            <a href="coldmol/scattering">Theory of Weakly Bound States and Ultracold Scattering</a>
+        </td>
+        <td width=105 align=center><img src="coldmol/scattering/img/scattering.jpg" alt="Scattering theory"/></td>
+    </tr>
+    <tr>
+        <td>
+            <a href="coldmol/collisions">Exploring ultracold molecular collisions</a>
+        </td>
+        <td width=105 align=center><img src="coldmol/collisions/img/collisions.jpg" alt="Collision theory"/></td>
+    </tr>
+    <tr>
+        <td>
+            <a href="coldmol/cafcool">Laser cooling CaF molecules</a>
+        </td>
+        <td width=105 align=center><img src="coldmol/cafcool/img/cafcool.jpg" alt="CaF cooling"/></td>
+    </tr>   
 </table>
 

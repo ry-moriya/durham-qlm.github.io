@@ -4,7 +4,7 @@ title: Quantum Fluids and Atom-Light Interactions
 subtitle:
 ---
 
-## Projects
+## Current activities
 
 |**Title**|   |
 |[Theory of Quantum Fluids and Atom-Light Interactions](/research/qfali/theory)|   |
