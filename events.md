@@ -12,6 +12,6 @@ subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming events a
 
 ## 2023 Group meetings
 
-|Date   |Speaker    |Institution    |
-|:---   | :----:      |           --: |
-|22/05/2022 |A. Einstein    |Princeton  |
+|Date   |Title   |Speaker    |Institution    |
+|:---   | :----:      | :----:      |           --: |
+|22/05/2022|Talk title |A. Einstein    |Princeton  |
