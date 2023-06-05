@@ -1,6 +1,8 @@
+---
 layout: page
 title: Quantum Gas Microscope
 subtitle:
+---
 ## Overview
 
 ## Team members

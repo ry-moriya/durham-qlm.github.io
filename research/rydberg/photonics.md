@@ -1,6 +1,8 @@
+---
 layout: page
 title: Rydberg Photonics
 subtitle:
+---
 ## Overview
 
 ## Team members

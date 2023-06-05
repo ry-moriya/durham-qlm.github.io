@@ -1,6 +1,8 @@
+---
 layout: page
 title: Atomic properties calculations
 subtitle:
+---
 ## Overview
 
 ## Team members

@@ -1,6 +1,8 @@
+---
 layout: page
 title: Precision Interaction Potentials
 subtitle:
+---
 ## Overview
 
 ## Team members

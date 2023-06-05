@@ -1,6 +1,8 @@
+---
 layout: page
 title: Quantum Annealing Experiments
 subtitle:
+---
 ## Overview
 
 ## Team members

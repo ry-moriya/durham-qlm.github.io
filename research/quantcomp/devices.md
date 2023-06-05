@@ -1,6 +1,8 @@
+---
 layout: page
 title: Structured Quantum Devices
 subtitle:
+---
 ## Overview
 
 ## Team members

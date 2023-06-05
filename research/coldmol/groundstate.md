@@ -1,6 +1,8 @@
+---
 layout: page
 title: Controlling Ground State RbCs Molecules
 subtitle:
+---
 ## Overview
 
 ## Team members

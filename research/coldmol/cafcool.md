@@ -1,6 +1,8 @@
+---
 layout: page
 title: Laser cooling CaF molecules
 subtitle:
+---
 ## Overview
 
 ## Team members

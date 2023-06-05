@@ -1,6 +1,8 @@
+---
 layout: page
 title: Thermal Rydberg Atoms
 subtitle:
+---
 ## Overview
 
 ## Team members

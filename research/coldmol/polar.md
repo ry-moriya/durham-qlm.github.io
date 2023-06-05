@@ -1,6 +1,8 @@
+---
 layout: page
 title: CsYb: Magnetic Polar Molecules
 subtitle:
+---
 ## Overview
 
 ## Team members

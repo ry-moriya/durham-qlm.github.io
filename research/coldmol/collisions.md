@@ -1,6 +1,8 @@
+---
 layout: page
 title: Exploring ultracold molecular collisions
 subtitle:
+---
 ## Overview
 
 ## Team members

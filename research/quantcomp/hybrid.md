@@ -1,6 +1,8 @@
+---
 layout: page
 title: Hybrid Quantum Annealing
 subtitle:
+---
 ## Overview
 
 ## Team members

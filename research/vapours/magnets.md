@@ -1,6 +1,8 @@
+---
 layout: page
 title: Atoms, Lasers and Magnets
 subtitle:
+---
 ## Overview
 
 ## Team members

@@ -1,6 +1,8 @@
+---
 layout: page
 title: Quantum Optics in Atomic Vapours
 subtitle:
+---
 ## Overview
 
 ## Team members

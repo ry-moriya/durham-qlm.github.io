@@ -1,6 +1,8 @@
+---
 layout: page
 title: Rydberg Excitons
 subtitle:
+---
 ## Overview
 
 ## Team members

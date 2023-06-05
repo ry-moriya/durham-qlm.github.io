@@ -1,6 +1,8 @@
+---
 layout: page
 title: Digital quantum computing & quantum error correction
 subtitle:
+---
 ## Overview
 
 ## Team members

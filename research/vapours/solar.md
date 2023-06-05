@@ -1,6 +1,8 @@
+---
 layout: page
 title: Solar filters
 subtitle:
+---
 ## Overview
 
 ## Team members

@@ -1,6 +1,8 @@
+---
 layout: page
 title: Sr Quantum Clock
 subtitle:
+---
 ## Overview
 
 ## Team members

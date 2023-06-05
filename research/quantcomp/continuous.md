@@ -1,6 +1,8 @@
+---
 layout: page
 title: Continuous-time quantum computing
 subtitle:
+---
 ## Overview
 
 ## Team members
