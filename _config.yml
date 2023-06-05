@@ -29,10 +29,10 @@ navbar-links:
   Research Themes:
     - Quantum Fluids and Atom-Light Interactions: "research/qfali"
     - Cold Molecules: "research/coldmol"
-    - Quantum Computing: "https://www.dur.ac.uk/qlm/"
-    - Rydberg Systems: "https://www.dur.ac.uk/qlm/"
-    - Quantum Technologies: "https://www.dur.ac.uk/qlm/"
-    - Thermal Vapours: "https://www.dur.ac.uk/qlm/"
+    - Quantum Computing: "research/quantcomp"
+    - Rydberg Systems: "research/rydberg"
+    - Quantum Technologies: "research/tech"
+    - Thermal Vapours: "research/vapours"
   Groups:
     - Cornish Group: "https://cornishgroup.github.io/"
   EDI: "edi/"
