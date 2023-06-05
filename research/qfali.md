@@ -7,6 +7,6 @@ subtitle:
 ## Projects
 
 |**Title**|   |
-|[Theory of Quantum Fluids and Atom-Light Interactions](qfali/theory)|   |
+|[Theory of Quantum Fluids and Atom-Light Interactions](./theory)|   |
 |[Dilute beyond mean-field quantum fluids](qfali/beyond)|  |
 
