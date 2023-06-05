@@ -3,6 +3,7 @@ layout: page
 title: Quantum Fluids and Atom-Light Interactions
 subtitle:
 ---
+We have a range of experimental and theoretical projects on Quantum Fluids and Atom-Light Interactions. For more detail on specific projects, use the links below.
 
 ## Current activities
 
