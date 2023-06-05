@@ -25,19 +25,19 @@ The new and improved understanding achieved through this project can be used to 
 <table border=0>
     <tr>
         <td>
-            <a href="/research/coldmol/rbcs">Controlling Ground State RbCs Molecules</a>
+            <a href="/research/coldmol/groundstate">Controlling Ground State RbCs Molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/groundstate/img/rbcs.jpg" alt="RbCs"/></td>
     </tr>
     <tr>
         <td>
-            <a href="/research/coldmol/csyb">CsYb: Magnetic Polar Molecules</a>
+            <a href="/research/coldmol/polar">CsYb: Magnetic Polar Molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/polar/img/csyb.jpg" alt="CsYb"/></td>
     </tr>
     <tr>
         <td>
-            <a href="/research/coldmol/kcs">Fermionic Molecules of KCs</a>
+            <a href="/research/coldmol/fermionic">Fermionic Molecules of KCs</a>
         </td>
         <td width=105 align=center><img src="coldmol/fermionic/img/kcs.jpg" alt="KCs"/></td>
     </tr>
@@ -49,13 +49,13 @@ The new and improved understanding achieved through this project can be used to 
     </tr>
     <tr>
         <td>
-            <a href="/research/coldmol/gas_microscope">Quantum Gas Microscope</a>
+            <a href="/research/coldmol/microscope">Quantum Gas Microscope</a>
         </td>
-        <td width=105 align=center><img src="coldmol/img/gas_microscope.jpg" alt="Gas microscope"/></td>
+        <td width=105 align=center><img src="coldmol/microscope/img/microscope.jpg" alt="Gas microscope"/></td>
     </tr>
     <tr>
         <td>
-            <a href="/research/coldmol/prec_pot">Precision Interaction Potentials</a>
+            <a href="/research/coldmol/potentials">Precision Interaction Potentials</a>
         </td>
         <td width=105 align=center><img src="coldmol/potentials/img/prec_pot.jpg" alt="Precision potentials"/></td>
     </tr>
