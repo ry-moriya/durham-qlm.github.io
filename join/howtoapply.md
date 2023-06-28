@@ -3,7 +3,7 @@ layout: page
 title: PhD opportunities
 subtitle: How to apply for a PhD
 ---
-## PhD opportunities
+## PhD opportunities
  
 A PhD in physics provides you with problem solving and analytical skills which can be applied to a range of careers. A PhD from the QLM group will provide you with expert training in AMO and quantum physics.
  
