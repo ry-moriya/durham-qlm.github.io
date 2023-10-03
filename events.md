@@ -14,8 +14,7 @@ subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming events a
 |01/11/2023|D110 (Archaeology)|TBA|Luke Caldwell    |University College, London |
 |08/11/2023|OCW017|TBA|Kai Voges    |Imperial College, London |
 |15/11/2023|OCW017|TBA|Amita Deb    |University of Birmingham |
-|22/11/2023|OCW017|Manoeuvring chemical reactions
-one degree of freedom at a time|Jutta Toscano    |University of Basel |
+|22/11/2023|OCW017|Manoeuvring chemical reactions one degree of freedom at a time|Jutta Toscano    |University of Basel |
 |29/11/2023|OCW017|TBA|Felipe Herrera    |University of Santiago |
 
 ## 2023 Group meetings
