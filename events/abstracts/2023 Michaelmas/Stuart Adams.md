@@ -4,8 +4,6 @@ title: QLM seminars, Michaelmas term
 subtitle: Stuart Adams (Durham University), 11/10/2023, 12pm-1pm, OCW017
 ---
 
-
-
 Although we often use computers for presentations, many of us are failing to exploit the incredible range of real-time interactivity that the internet allows.
 
 To address this, former Durham PhD student, Nikola Sibalic, developed an open-source Python based platform that links the presenter to each person in the audience. We called the platform Caroline after Caroline Herschel [1].
