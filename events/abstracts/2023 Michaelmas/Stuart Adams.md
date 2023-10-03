@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Stuart Adams, Durham University
-subtitle: 11/10/2023, 12pm-1pm, OCW017
+title: QLM seminars, Michaelmas term
+subtitle: Stuart Adams (Durham University), 11/10/2023, 12pm-1pm, OCW017
 ---
+
+
 
 Although we often use computers for presentations, many of us are failing to exploit the incredible range of real-time interactivity that the internet allows.
 
@@ -12,3 +14,6 @@ In this talk, I will highlight some of the functionality of Caroline. As well as
 
 References:
 [1] https://github.com/nikolasibalic/Caroline
+
+
+
