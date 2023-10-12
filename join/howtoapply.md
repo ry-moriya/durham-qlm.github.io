@@ -12,7 +12,7 @@ We recruit yearly for PhD students to join our group, research places are availa
 ## How to apply:
               
 1. Contact team leader to express interest and organise informal discussion/lab visit.
-2. Apply via Durham PG portal (link)
+2. Apply via Durham PG portal [link](https://studyatdurham.microsoftcrmportals.com/en-US/ )
              
 ## FAQs
 
