@@ -18,7 +18,7 @@ subtitle: Current members of the Durham QLM group
 |	|[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
 |	|[Prof. Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/)|
 |	|[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/)|
-|	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) [Group page](current/saw)|
+|	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) ([Group page](saw))|
 |Research Associates:   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 |   |[Dr. Tobias Franzen](https://www.durham.ac.uk/staff/tobias-franzen/)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
