@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: QLM Events 
-subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming events are listed here.
+subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming seminars are listed here.
 ---
 
 ## 2023 Seminars
