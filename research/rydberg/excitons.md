@@ -4,35 +4,31 @@ title: Rydberg Excitons
 subtitle: Cuprous Oxide
 ---
 ## Excitons
-Excitons are atom-like particles which are found in bulk semiconductors. They are formed of an electron and a hole which are bound together in a Coulomb potential. As they are a bound state of a positive and negative charge, they are analogous to hydrogen atoms, and share a similar ladder of energy levels. 
-
-These energy levels are observed as discrete states below the bandgap of the material as shown in Figure (a). In this project we study highly excited states of these excitons, known as Rydberg excitons. The coloured background in Figure (a) shows an exciton spectrum. Each of the dark lines corresponds to a different exciton absorption line. 
+Excitons are atom-like particles which are found in bulk semiconductors. They are formed of an electron and a hole which are bound together by a Coulomb potential. As they are a bound state of a positive and negative charge, they are analogous to hydrogen atoms, and share a similar ladder of energy levels. An exciton spectrum can be seen in the image below, where each dark line is a difference exciton resonance. The similarities with an atomic system is immediately apparent in this image from looking at the patterns of these spectral lines. Our studies focus on the highly excited states on the right hand side of the image, known as Rydberg excitons.
 
 ![](excitons/img/figure1.png)
 
-## Excitons in Cuprous Oxide
-We use the direct bandgap semiconductor cuprous oxide (Cu2O). Cuprous oxide was the first material in which excitons were observed and remains the material which holds the record for the highest excited exciton states of any material. A red gemstone of cuprous oxide is shown in Figure (b). Most of the material we use comes from natural sources. However, high quality natural samples are rare, and so we are also exploring the growth of synthetic cuprous oxide (through collaborations in Cardiff and India). 
+## Cuprous Oxide
+Our experiments are performed on the semiconductor Cu2O, which is the red gemstone at the top of this page. Rydberg excitons are incredibly sensitive to their environment, and so very pure crystals must be used. Currently, the highest purity crystals are natural gemstones, but one avenue of our research is to explore the growth of high-purity syntehtic material, through collaborations with Cardiff University. 
 
-## Properties of Excitons
-The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Higher energy Rydberg states are less tightly bound, leading to excitons with large spatial extents. For the highest lying states observed so far, the radius of the exciton wavefunction can by on the order of micrometers, meaning there are billions of lattice sites within the exciton wavefunction! Due to their size, excitons have large dipole moments which leads to effects such as interactions between the excitons. 
+## Microwave-optical Coupling 
+The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Crucially, the dipole-moment associated with transitions between Rydberg states scales with the principal quantum number squared, leading to interactions between excitons and as well as other nonlinear effects. 
 
-We probe Rydberg excitons in Cu2O samples cooled to 4K using a laser. Here we can see up to principal quantum number of n=16, as the size of the exciton scales as n^2
+In our experiments we use a microwave field to couple neighbouring Rydberg exciton levels, directly exploiting the large dipole moment associated with these transitions. As we create our Rydbegr states through optical excitation with a laser, we have a system which can form the basis of a microwave-optical converter. In future, we plan to explore this microwave-optical coupling further, with one of our current projects looking at creating a hybrid quantum system consisting of cuprous oxide and a superconducting microwave resonator, with the aim of being able to douple out excitons to single microwave photons. 
 
-![](excitons/img/absoprtionspec.svg)
 
-## Microwave-to-optical Light Coupling
-In our experiment we also apply microwave fields to our samples. The addition of the microwave field allows us to drive transitions between Rydberg exciton states of opposite parity. This gives us an additional degree of control over the Rydberg excitons, and we have recently demonstrated it allows us to coherently modulate an optical carrier. Figure below shows the effect of a microwave field on our exciton spectrum. The change in absorption due to the microwave field in a one-photon excitation scheme is shown. We see a decreased optical depth on resonance with the P states, and an increase in optical depth at the energy of the S and D states, indicating the excitons are driving transitions from the P states to the S and the D states.
 
-## Future Plans 
-In future, we plan to explore this microwave-exciton coupling further. One of our future directions is to place cuprous oxide on a microwave resonator. This would allow us to achieve much higher microwave field strengths, and let us reach a new regime for the microwave-exciton coupling. We also hope to observe microwave induced interactions between excitons. These interactions have been observed in atomic Rydberg systems, but not in the solid-state. One final direction for the project is to the look at the quantum statistics of the emitted light, opening up potential quantum optical applications for this fascinating material.
-
-## Apply Now!!
+## Apply Now!
 If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
 
 ## Team members 
 [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (PI) <br>
 [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) <br>
 [Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) <br>
+
+## Former members 
+
+## Collaborators
 
 ## Publications
 [1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research. <br>
