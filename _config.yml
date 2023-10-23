@@ -38,11 +38,12 @@ navbar-links:
     - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
   Events: "events"
+    - Group Meeting: "Group meeting"
   Publications: "publications/"
   Outreach: "outreach/"
   Members: 
     - Current: "members/current"
-    - Previous: "members/prev_members"
+ #   - Previous: "members/prev_members"
     - Learn markdown: "https://www.markdowntutorial.com/"
 # --- Logo --- #
 
