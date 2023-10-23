@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: QLM News
 subtitle: Latest news from the group
 ---
