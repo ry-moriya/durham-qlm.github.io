@@ -38,7 +38,7 @@ navbar-links:
     - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
   Events: "events"
-  Group Meeting: "Group meeting"
+  Group Meeting:
   Publications: "publications/"
   Outreach: "outreach/"
   Members: 
