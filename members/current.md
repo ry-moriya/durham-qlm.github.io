@@ -26,7 +26,6 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Alexander Guttridge](https://www.durham.ac.uk/staff/alexander-guttridge/)|
 |   |[Dr. Matthew Hill](https://www.durham.ac.uk/staff/matthew-hill2/)|
 |   |[Dr. Matthew Jamieson](https://www.durham.ac.uk/staff/matthew-j-jamieson/)|
-|   |[Dr. Dushmanta Kara](https://www.durham.ac.uk/staff/dushmanta-kara/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |   |[Dr. Jonathan Mortlock](https://www.durham.ac.uk/staff/jonathan-m-mortlock/)|
 |   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
