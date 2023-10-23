@@ -49,3 +49,4 @@ subtitle: Current members of the Durham QLM group
 |   |[Li Tao](https://www.durham.ac.uk/staff/li-tao/)|
 |   |[Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
 |   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)|
+|   |[Tom Hepworth](https://www.durham.ac.uk/staff/tom-hepworth/)|
