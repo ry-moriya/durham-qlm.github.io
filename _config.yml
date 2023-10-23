@@ -35,6 +35,7 @@ navbar-links:
     - Thermal Vapours: "research/vapours"
   Groups:
     - Cornish Group: "https://cornishgroup.github.io/"
+    - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
   Events: "events"
   Publications: "publications/"
