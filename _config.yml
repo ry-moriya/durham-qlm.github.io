@@ -37,8 +37,10 @@ navbar-links:
     - Cornish Group: "https://cornishgroup.github.io/"
     - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
-  Events: "events"
-  Group Meeting:
+  Events: 
+    - Seminars: "events"
+    - Group Meeting:
+    - Social Events:
   Publications: "publications/"
   Outreach: "outreach/"
   Members: 
