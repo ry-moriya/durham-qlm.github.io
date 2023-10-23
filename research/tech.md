@@ -10,4 +10,4 @@ We have a range of experimental and theoretical projects on Quantum Technologies
 |**Title**|   |
 |[Breath-Gas Sensing in Real Time for Treating Diabetic Ketoacidosis](/research/tech/breath)|   |
 |[Structured Quantum Devices](/research/tech/structured)|  |
-|[THz Sensing and Imaging](/research/tech/thz)|  |
+|[THz Sensing and Imaging](/research/tech/terahertz)|  |
