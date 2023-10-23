@@ -16,12 +16,11 @@ We use the direct bandgap semiconductor cuprous oxide (Cu2O). Cuprous oxide was 
 ## Properties of Excitons
 The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Higher energy Rydberg states are less tightly bound, leading to excitons with large spatial extents. For the highest lying states observed so far, the radius of the exciton wavefunction can by on the order of micrometers, meaning there are billions of lattice sites within the exciton wavefunction! Due to their size, excitons have large dipole moments which leads to effects such as interactions between the excitons. 
 
-## Probing Excitons
-To observe high lying exciton states we need to cool our samples to low temperatures. For this, we use a liquid helium based cryostation which can cool our samples to 4 K.  Once cooled, we use a laser to excite our Rydberg excitons. As excitons obey similar selection rules to atoms, we can use one- or two-photon excitation schemes to reach exciton states with different angular momenta. Figure below shows two exciton spectra, one taken in a one-photon excitation scheme, and the other taken by two-photon (second harmonic generation) spectroscopy. In the one-photon plot we see exciton states with P symmetry, whereas in the two-photon plot the states with S and D symmetry dominate the spectrum.
+We probe Rydberg excitons in Cu2O samples cooled to 4K using a laser. Here we can see up to principal quantum number of n=16, as the size of the exciton scales as n^2
 
 ![](excitons/img/absoprtionspec.svg)
 
-## Microwav-to-optical Light Coupling
+## Microwave-to-optical Light Coupling
 In our experiment we also apply microwave fields to our samples. The addition of the microwave field allows us to drive transitions between Rydberg exciton states of opposite parity. This gives us an additional degree of control over the Rydberg excitons, and we have recently demonstrated it allows us to coherently modulate an optical carrier. Figure below shows the effect of a microwave field on our exciton spectrum. The change in absorption due to the microwave field in a one-photon excitation scheme is shown. We see a decreased optical depth on resonance with the P states, and an increase in optical depth at the energy of the S and D states, indicating the excitons are driving transitions from the P states to the S and the D states.
 
 ## Future Plans 
@@ -31,9 +30,9 @@ In future, we plan to explore this microwave-exciton coupling further. One of ou
 If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
 
 ## Team members 
-PI:          [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) <br>
-Postdoc:     [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) <br>
-PhD student: [Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) <br>
+[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (PI) <br>
+[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) <br>
+[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) <br>
 
 ## Publications
 [1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research. <br>
