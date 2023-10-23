@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: QLM Events 
+title: QLM Seminars
 subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming seminars are listed here.
 ---
 
