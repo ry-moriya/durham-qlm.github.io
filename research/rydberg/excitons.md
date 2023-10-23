@@ -24,7 +24,10 @@ To observe high lying exciton states we need to cool our samples to low temperat
 ## Microwav-to-optical Light Coupling
 In our experiment we also apply microwave fields to our samples. The addition of the microwave field allows us to drive transitions between Rydberg exciton states of opposite parity. This gives us an additional degree of control over the Rydberg excitons, and we have recently demonstrated it allows us to coherently modulate an optical carrier. Figure below shows the effect of a microwave field on our exciton spectrum. The change in absorption due to the microwave field in a one-photon excitation scheme is shown. We see a decreased optical depth on resonance with the P states, and an increase in optical depth at the energy of the S and D states, indicating the excitons are driving transitions from the P states to the S and the D states.
 
+## Future Plans 
 In future, we plan to explore this microwave-exciton coupling further. One of our future directions is to place cuprous oxide on a microwave resonator. This would allow us to achieve much higher microwave field strengths, and let us reach a new regime for the microwave-exciton coupling. We also hope to observe microwave induced interactions between excitons. These interactions have been observed in atomic Rydberg systems, but not in the solid-state. One final direction for the project is to the look at the quantum statistics of the emitted light, opening up potential quantum optical applications for this fascinating material.
+
+## Apply Now!!
 If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
 
 ## Team members 
@@ -33,3 +36,11 @@ Postdoc:     [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallaghe
 PhD student: [Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) <br>
 
 ## Publications
+[1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research. <br>
+
+[2] Rogers, J., Gallagher, L., Pizzey, D., Pritchett, J., Adams, C., Jones, M., Hodges, C., Langbein, W., & Lynch, S. (2022). High-resolution nanosecond spectroscopy of even-parity Rydberg excitons in Cu 2 O. Physical Review B. <br>
+
+[3] Lynch, S., Hodges, C., Mandal, S., Langbein, W., Singh, R., Gallagher, L., Pritchett, J., Pizzey, D., Rogers, J., & Adams, C. (2021). Rydberg excitons in synthetic cuprous oxide Cu 2 O. Physical Review Materials.
+
+## PhD Theses
+[1] Gallagher, L. (2022). Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O. Doctoral dissertation, Durham University.
