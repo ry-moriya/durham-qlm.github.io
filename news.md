@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: QLM News
 subtitle: Latest news from the group
 ---
