@@ -31,28 +31,18 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
 |   |[Dr. Jack Segal](https://www.durham.ac.uk/staff/jack-d-segal/)|
 |Research Students:   |[Gianluca Allinson](https://www.durham.ac.uk/staff/gianluca-allinson/)|
-|   |[Nourah Almuhawish](https://www.durham.ac.uk/staff/nourah-f-almuhawish/)|
 |   |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
 |   |[Toonyawat Angkhanawin](https://www.durham.ac.uk/staff/toonyawat-angkhanawin/)|
-|   |[Jemma Bennett](https://www.durham.ac.uk/staff/jemma-e-bennett/)|
 |   |[Joe Bloomer](https://www.durham.ac.uk/staff/joe-t-bloomer/)|
 |   |[Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
 |   |[Jack Briscoe](https://www.durham.ac.uk/staff/jack-d-briscoe/)|
-|   |[Benjamin Cartwright](https://www.durham.ac.uk/staff/benjamin-s-cartwright/)|
-|   |[Anton Charman](https://www.durham.ac.uk/staff/anton-charman/)|
-|   |[Thomas Cutler](https://www.durham.ac.uk/staff/thomas-cutler/)|
 |   |[Luke Fernley](https://www.durham.ac.uk/staff/luke-fernley/)|
 |   |[Jack Griffiths](https://www.durham.ac.uk/staff/jack-griffiths/)|
-|   |[Clare Higgins](https://www.durham.ac.uk/staff/clare-r-higgins/)|
 |   |[Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
-|   |[Andrew Innes](https://www.durham.ac.uk/staff/andrew-d-innes/)|
-|   |[Ce Li](https://www.durham.ac.uk/staff/ce-li/)|
-|   |[Fraser Logue](https://www.durham.ac.uk/staff/fraser-d-logue2/)|
 |   |[Alex Matthies](https://www.durham.ac.uk/staff/jonas-a-matthies/)|
 |   |[Luthais McCash](https://www.durham.ac.uk/staff/luthais-mccash/)|
 |   |[Puya Mirkarimi](https://www.durham.ac.uk/staff/puya-mirkarimi/)|
 |   |[Laurentiu Constantin Nita](https://www.durham.ac.uk/staff/laurentiu-c-nita/)|
-|   |[Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/)|
 |   |[Adarsh Raghuram](https://www.durham.ac.uk/staff/adarsh-p-raghuram/)|
 |   |[Daniel Ruttley](https://www.durham.ac.uk/staff/daniel-k-ruttley/)|
 |   |[Joseph Scott](https://www.durham.ac.uk/staff/joseph-p-scott/)|
