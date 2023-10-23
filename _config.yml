@@ -40,7 +40,7 @@ navbar-links:
   Events: 
     - Seminars: "seminars"
     - Group Meeting: "gmeetings"
-    - Social Events:
+    - Social Events: "socials"
   Publications: "publications/"
   Outreach: "outreach/"
   Members: 
