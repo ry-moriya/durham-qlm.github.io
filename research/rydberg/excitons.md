@@ -4,6 +4,7 @@ title: Rydberg Excitons
 subtitle: Cuprous Oxide
 ---
 ## Excitons
+![](excitons/img/figure1.png)
 Excitons are atom-like particles which are found in bulk semiconductors. They are formed of an electron and a hole which are bound together in a Coulomb potential. As they are a bound state of a positive and negative charge, they are analogous to hydrogen atoms, and share a similar ladder of energy levels. These energy levels are observed as discrete states below the bandgap of the material as shown in Figure 1(a). In this project we study highly excited states of these excitons, known as Rydberg excitons. The coloured background in Figure 1(a) shows an exciton spectrum. Each of the dark lines corresponds to a different exciton absorption line. 
 We use the direct bandgap semiconductor cuprous oxide (Cu2O). Cuprous oxide was the first material in which excitons were observed and remains the material which holds the record for the highest excited exciton states of any material. A red gemstone of cuprous oxide is shown in Figure 1(b). Most of the material we use comes from natural sources. However, high quality natural samples are rare, and so we are also exploring the growth of synthetic cuprous oxide (through collaborations in Cardiff and India). 
 
