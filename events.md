@@ -18,9 +18,3 @@ Michaelmas term
 |15/11/2023|12pm-1pm|OCW017|TBA|Amita Deb    |University of Birmingham |
 |22/11/2023|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2023 Michaelmas/Jutta Toscano">Manoeuvring chemical reactions one degree of freedom at a time</a>|Jutta Toscano    |University of Basel |
 |29/11/2023|12pm-1pm|OCW017|TBA|Felipe Herrera    |University of Santiago |
-
-## 2023 Group meetings
-
-|Date   |Time |Location |Title   |Speaker    |
-|:---   | :----:  | :----:      | :----:      |           --: |
-|22/05/2022|10am |TBA    |TBA | TBA |
