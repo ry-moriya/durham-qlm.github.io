@@ -13,6 +13,7 @@ Excitons are atom-like particles which are found in bulk semiconductors. They ar
 Our experiments are performed on the semiconductor Cu2O, which is the red gemstone at the top of this page. Rydberg excitons are incredibly sensitive to their environment, and so very pure crystals must be used. Currently, the highest purity crystals are natural gemstones, but one avenue of our research is to explore the growth of high-purity syntehtic material, through collaborations with Cardiff University. 
 
 ## Microwave-optical Coupling 
+![](excitons/img/absorptionspec.png) <br>
 The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Crucially, the dipole-moment associated with transitions between Rydberg states scales with the principal quantum number squared, leading to interactions between excitons and as well as other nonlinear effects. 
 
 In our experiments we use a microwave field to couple neighbouring Rydberg exciton levels, directly exploiting the large dipole moment associated with these transitions. As we create our Rydbegr states through optical excitation with a laser, we have a system which can form the basis of a microwave-optical converter. In future, we plan to explore this microwave-optical coupling further, with one of our current projects looking at creating a hybrid quantum system consisting of cuprous oxide and a superconducting microwave resonator, with the aim of being able to douple out excitons to single microwave photons. 
@@ -33,9 +34,13 @@ If you are interested in joining the team or finding out more, please contact m.
 [Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Postdoctoral Research Assistant)
 
 ## Collaborators
+### Cardiff University
 [Prof. Stephen Lynch](https://profiles.cardiff.ac.uk/staff/lynchsa) <br>
 [Prof. Wolfgang Langbein](https://profiles.cardiff.ac.uk/staff/langbeinww) <br>
 [Prof. Simon Doyle](https://profiles.cardiff.ac.uk/staff/doylesm) 
+
+### University of St Andrews
+[Dr Hamid Ohadi](https://www.st-andrews.ac.uk/physics-astronomy/people/ho35/)
 
 ## Publications
 [[1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research.](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013031) <br>
