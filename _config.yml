@@ -14,7 +14,7 @@ author: "Quantum Light and Matter Group, Durham University"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Join Us: 
+  &nbsp; Join Us &nbsp;: 
     - PhD recruitment: "join/phdrecruit"
 #    - Available PhD: "https://www.dur.ac.uk/qlm/recruitment/pg-positions/"
     - How to apply: "join/howtoapply"
