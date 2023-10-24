@@ -24,12 +24,18 @@ If you are interested in joining the team or finding out more, please contact m.
 
 ## Team members 
 [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (PI) <br>
-[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) <br>
-[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) <br>
+[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI???) <br>
+[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Postdoctoral Reaseach Assistant) <br>
+[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) <br>
 
 ## Former members 
+[Dr. Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/) (PhD student) <br>
+[Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Postdoctoral Research Assistant)
 
 ## Collaborators
+[Prof. Stephen Lynch](https://profiles.cardiff.ac.uk/staff/lynchsa) <br>
+[Prof. Wolfgang Langbein](https://profiles.cardiff.ac.uk/staff/langbeinww) <br>
+[Prof. Simon Doyle](https://profiles.cardiff.ac.uk/staff/doylesm) 
 
 ## Publications
 [[1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research.](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013031) <br>
@@ -40,6 +46,3 @@ If you are interested in joining the team or finding out more, please contact m.
 
 ## PhD Theses
 [[1] Gallagher, L. (2022). Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O. Doctoral dissertation, Durham University.](http://etheses.dur.ac.uk/14296/1/Gallagher000720653_corrected.pdf)
-
-## PhD Theses
-[1] Gallagher, L. (2022). Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O. Doctoral dissertation, Durham University.
