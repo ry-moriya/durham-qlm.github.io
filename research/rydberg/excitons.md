@@ -31,11 +31,14 @@ If you are interested in joining the team or finding out more, please contact m.
 ## Collaborators
 
 ## Publications
-[1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research. <br>
+[[1] Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C. (2022). Microwave-optical coupling via Rydberg excitons in cuprous oxide. Physical Review Research.](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013031) <br>
 
-[2] Rogers, J., Gallagher, L., Pizzey, D., Pritchett, J., Adams, C., Jones, M., Hodges, C., Langbein, W., & Lynch, S. (2022). High-resolution nanosecond spectroscopy of even-parity Rydberg excitons in Cu 2 O. Physical Review B. <br>
+[[2] Rogers, J., Gallagher, L., Pizzey, D., Pritchett, J., Adams, C., Jones, M., Hodges, C., Langbein, W., & Lynch, S. (2022). High-resolution nanosecond spectroscopy of even-parity Rydberg excitons in Cu 2 O. Physical Review B.](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.115206) <br>
 
-[3] Lynch, S., Hodges, C., Mandal, S., Langbein, W., Singh, R., Gallagher, L., Pritchett, J., Pizzey, D., Rogers, J., & Adams, C. (2021). Rydberg excitons in synthetic cuprous oxide Cu 2 O. Physical Review Materials.
+[[3] Lynch, S., Hodges, C., Mandal, S., Langbein, W., Singh, R., Gallagher, L., Pritchett, J., Pizzey, D., Rogers, J., & Adams, C. (2021). Rydberg excitons in synthetic cuprous oxide Cu 2 O. Physical Review Materials.](https://journals.aps.org/prmaterials/pdf/10.1103/PhysRevMaterials.5.084602)
+
+## PhD Theses
+[[1] Gallagher, L. (2022). Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O. Doctoral dissertation, Durham University.](http://etheses.dur.ac.uk/14296/1/Gallagher000720653_corrected.pdf)
 
 ## PhD Theses
 [1] Gallagher, L. (2022). Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O. Doctoral dissertation, Durham University.
