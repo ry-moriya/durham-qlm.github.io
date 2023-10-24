@@ -24,8 +24,8 @@ In our experiments we use a microwave field to couple neighbouring Rydberg excit
 If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
 
 ## Team members 
-[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (PI) <br>
-[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI???) <br>
+[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (Principal Investigator) <br>
+[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (Co-Investigator) <br>
 [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Postdoctoral Reaseach Assistant) <br>
 [Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/) (PhD student) <br>
 [Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) 
