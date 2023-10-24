@@ -6,9 +6,10 @@ subtitle: Cuprous Oxide
 ## Excitons
 Excitons are atom-like particles which are found in bulk semiconductors. They are formed of an electron and a hole which are bound together by a Coulomb potential. As they are a bound state of a positive and negative charge, they are analogous to hydrogen atoms, and share a similar ladder of energy levels. An exciton spectrum can be seen in the image below, where each dark line is a difference exciton resonance. The similarities with an atomic system is immediately apparent in this image from looking at the patterns of these spectral lines. Our studies focus on the highly excited states on the right hand side of the image, known as Rydberg excitons.
 
-![](excitons/img/figure1.png)
+![](excitons/img/spec.png)
 
 ## Cuprous Oxide
+![](excitons/img/stone.png)
 Our experiments are performed on the semiconductor Cu2O, which is the red gemstone at the top of this page. Rydberg excitons are incredibly sensitive to their environment, and so very pure crystals must be used. Currently, the highest purity crystals are natural gemstones, but one avenue of our research is to explore the growth of high-purity syntehtic material, through collaborations with Cardiff University. 
 
 ## Microwave-optical Coupling 
