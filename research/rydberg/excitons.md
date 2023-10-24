@@ -10,10 +10,12 @@ Excitons are atom-like particles which are found in bulk semiconductors. They ar
 
 ## Cuprous Oxide
 ![](excitons/img/stone.png)
+
 Our experiments are performed on the semiconductor Cu2O, which is the red gemstone at the top of this page. Rydberg excitons are incredibly sensitive to their environment, and so very pure crystals must be used. Currently, the highest purity crystals are natural gemstones, but one avenue of our research is to explore the growth of high-purity syntehtic material, through collaborations with Cardiff University. 
 
 ## Microwave-optical Coupling 
-![](excitons/img/absorptionspec.png) <br>
+![](excitons/img/absorptionspec.png) 
+
 The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Crucially, the dipole-moment associated with transitions between Rydberg states scales with the principal quantum number squared, leading to interactions between excitons and as well as other nonlinear effects. 
 
 In our experiments we use a microwave field to couple neighbouring Rydberg exciton levels, directly exploiting the large dipole moment associated with these transitions. As we create our Rydbegr states through optical excitation with a laser, we have a system which can form the basis of a microwave-optical converter. In future, we plan to explore this microwave-optical coupling further, with one of our current projects looking at creating a hybrid quantum system consisting of cuprous oxide and a superconducting microwave resonator, with the aim of being able to douple out excitons to single microwave photons. 
