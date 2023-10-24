@@ -26,8 +26,8 @@ If you are interested in joining the team or finding out more, please contact m.
 [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (PI) <br>
 [Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI???) <br>
 [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Postdoctoral Reaseach Assistant) <br>
-[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) <br>
-
+[Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/) (PhD student) <br>
+[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) 
 ## Former members 
 [Dr. Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/) (PhD student) <br>
 [Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Postdoctoral Research Assistant)
