@@ -37,6 +37,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
 |   |[Jack Briscoe](https://www.durham.ac.uk/staff/jack-d-briscoe/)|
 |   |[Luke Fernley](https://www.durham.ac.uk/staff/luke-fernley/)|
+|   |[James Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
 |   |[Jack Griffiths](https://www.durham.ac.uk/staff/jack-griffiths/)|
 |   |[Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
 |   |[Alex Matthies](https://www.durham.ac.uk/staff/jonas-a-matthies/)|
