@@ -28,6 +28,7 @@ subtitle: THz Sensing and Imaging using Rydberg Atoms
 |[Prof. Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/)|
 |[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
 |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
+|[Dr. Matthew Jamieson](https://www.durham.ac.uk/staff/matthew-j-jamieson/)|
 |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |[Mr Gianluca Allinson ](https://www.durham.ac.uk/staff/gianluca-allinson/)|
 |[Mr. Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
