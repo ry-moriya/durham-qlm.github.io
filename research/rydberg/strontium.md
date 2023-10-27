@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sr Quantum Clock
+title: Strontium Quantum Clock
 subtitle:
 ---
 ## Overview
@@ -14,11 +14,10 @@ subtitle:
 4. L. I. R. Gil, R. Mukherjee, E. M. Bridge, M. P. A. Jones, and T. Pohl, *Spin Squeezing in a Rydberg Lattice Clock*, [Phys. Rev. Lett. **112**, 103601 (2014).](http://dx.doi.org/10.1103/PhysRevLett.112.103601)
 
 ## Team members
-|**Name**|
-|-------------------------------|
-|[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/)|
-|[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
-|[Dr. Matthew Hill](https://www.durham.ac.uk/staff/matthew-hill2/)|
-|[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
-|[Mitch Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
-|[Ryuji Moriya]()|
+
+- [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/)
+- [Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)
+- [Dr. Matthew Hill](https://www.durham.ac.uk/staff/matthew-hill2/)
+- [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)
+- [Mitch Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)
+- Ryuji Moriya
