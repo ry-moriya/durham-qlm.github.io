@@ -17,13 +17,13 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="https://www.cornishlabs.uk/rbcs">Controlling Ground State RbCs Molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/groundstate/img/intro.png" alt="RbCs"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/groundstate/img/intro.png" alt="RbCs"/></td>
     </tr>
     <tr>
         <td>
             <a href="https://www.cornishlabs.uk/microscope">RbCs Quantum Gas Microscope</a>
         </td>
-        <td width=105 align=center><img src="coldmol/microscope/img/microscope.png" alt="Gas microscope"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/microscope/img/microscope.png" alt="Gas microscope"/></td>
     </tr>
     <tr>
         <td>
@@ -35,7 +35,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="https://www.cornishlabs.uk/csyb">CsYb: Magnetic Polar Molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/polar/img/csyb.jpg" alt="CsYb"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/polar/img/csyb.jpg" alt="CsYb"/></td>
     </tr>
     <!-- <tr>
         <td>
