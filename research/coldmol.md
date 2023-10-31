@@ -17,19 +17,19 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="https://www.cornishlabs.uk/rbcs">Controlling Ground State RbCs Molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/groundstate/img/rbcs.jpg" alt="RbCs"/></td>
+        <td width=105 align=center><img src="coldmol/groundstate/img/intro.png" alt="RbCs"/></td>
     </tr>
     <tr>
         <td>
             <a href="https://www.cornishlabs.uk/microscope">RbCs Quantum Gas Microscope</a>
         </td>
-        <td width=105 align=center><img src="coldmol/microscope/img/microscope.jpg" alt="Gas microscope"/></td>
+        <td width=105 align=center><img src="coldmol/microscope/img/microscope.png" alt="Gas microscope"/></td>
     </tr>
     <tr>
         <td>
             <a href="https://www.cornishlabs.uk/tweezers">RbCs Molecules in Tweezers</a>
         </td>
-        <td width=105 align=center><img src="coldmol/tweezers/img/tweezers.jpg" alt="Tweezers"/></td>
+        <td width=105 align=center><img src="coldmol/tweezers/img/experiment_composite_cropped.png" alt="Tweezers"/></td>
     </tr>
     <tr>
         <td>
