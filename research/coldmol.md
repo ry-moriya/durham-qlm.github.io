@@ -29,7 +29,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="https://www.cornishlabs.uk/tweezers">RbCs Molecules in Tweezers</a>
         </td>
-        <td width=105 align=center><img src="coldmol/tweezers/img/experiment_composite_cropped.png" alt="Tweezers"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/tweezers/img/experiment_composite_cropped.png" alt="Tweezers"/></td>
     </tr>
     <tr>
         <td>
