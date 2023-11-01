@@ -35,7 +35,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="https://www.cornishlabs.uk/csyb">CsYb: Magnetic Polar Molecules</a>
         </td>
-        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/polar/img/csyb.jpg" alt="CsYb"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cysb/img/Yb_MOT.jpg" alt="CsYb"/></td>
     </tr>
     <!-- <tr>
         <td>
