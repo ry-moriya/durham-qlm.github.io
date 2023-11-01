@@ -17,7 +17,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="https://www.cornishlabs.uk/rbcs">Controlling Ground State RbCs Molecules</a>
         </td>
-        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/groundstate/img/intro.png" alt="RbCs"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/rbcs/img/intro.png" alt="RbCs"/></td>
     </tr>
     <tr>
         <td>
