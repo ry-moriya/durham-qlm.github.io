@@ -37,35 +37,17 @@ In Durham we work to harness properties of such molecules with a variety of tech
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/csyb/img/Yb_MOT.jpg" alt="CsYb"/></td>
     </tr>
-    <!-- <tr>
-        <td>
-            <a href="/research/coldmol/fermionic">Fermionic Molecules of KCs</a>
-        </td>
-        <td width=105 align=center><img src="coldmol/fermionic/img/kcs.jpg" alt="KCs"/></td>
-    </tr> -->
-    <!-- <tr>
-        <td>
-            <a href="/research/coldmol/potentials">Precision Interaction Potentials</a>
-        </td>
-        <td width=105 align=center><img src="coldmol/potentials/img/prec_pot.jpg" alt="Precision potentials"/></td>
-    </tr> -->
-     <!-- <tr>
-        <td>
-            <a href="/research/coldmol/scattering">Theory of Weakly Bound States and Ultracold Scattering</a>
-        </td>
-        <td width=105 align=center><img src="coldmol/scattering/img/scattering.jpg" alt="Scattering theory"/></td>
-    </tr> -->
-    <!-- <tr>
-        <td>
-            <a href="/research/coldmol/collisions">Exploring ultracold molecular collisions</a>
-        </td>
-        <td width=105 align=center><img src="coldmol/collisions/img/collisions.jpg" alt="Collision theory"/></td>
-    </tr> -->
     <tr>
         <td>
             <a href="/research/coldmol/cafcool">Laser cooling CaF molecules</a>
         </td>
         <td width=105 align=center><img src="coldmol/cafcool/img/cafcool.jpg" alt="CaF cooling"/></td>
     </tr>   
+    <tr>
+        <td>
+            <a href="/research/coldmol/collisions">Exploring ultracold molecular collisions</a>
+        </td>
+        <td width=105 align=center><img src="coldmol/collisions/img/collisions.jpg" alt="Collision theory"/></td>
+    </tr>
 </table>
 
