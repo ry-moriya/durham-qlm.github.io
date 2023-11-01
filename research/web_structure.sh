@@ -31,7 +31,6 @@ touch qfali/beyond.md
 touch coldmol/groundstate.md
 touch coldmol/polar.md
 touch coldmol/fermionic.md
-touch coldmol/tweezers.md
 touch coldmol/microscope.md
 touch coldmol/potentials.md
 touch coldmol/scattering.md
