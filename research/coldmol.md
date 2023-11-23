@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cold Molecules
-subtitle: Controlled Cold and Ultracold Collisions
+<!--subtitle: Controlled Cold and Ultracold Collisions-->
 ---
 
 <!-- <img src="coldmol/img/coldmol_1.png" alt="coldmol_1" /> -->
@@ -41,7 +41,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="/research/coldmol/cafcool">Laser cooling CaF molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/cafcool/img/cafcool.jpg" alt="CaF cooling"/></td>
+        <td width=105 align=center><img src="coldmol/cafcool/img/source.jpg" alt="CaF cooling"/></td>
     </tr>   
     <tr>
         <td>
