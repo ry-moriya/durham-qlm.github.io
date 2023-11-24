@@ -41,7 +41,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="/research/coldmol/cafcool">Laser cooling CaF molecules</a>
         </td>
-        <td width=105 align=center><img src="coldmol/cafcool/img/source.jpg" alt="CaF cooling"/></td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/source.jpg" alt="CaF cooling"/></td>
     </tr>   
     <tr>
         <td>
