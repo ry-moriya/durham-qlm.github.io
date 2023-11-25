@@ -26,7 +26,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" align = "right"
   >
-  <figcaption>Figure 3. CaF team (AB,BH,HJW,AM).</figcaption>
+  <figcaption>Figure 3. CaF team (BH,AB,HJW,AM).</figcaption>
   </figure>
   
 [Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/) (she/her)  --  PI<br>
