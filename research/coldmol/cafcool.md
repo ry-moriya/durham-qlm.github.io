@@ -29,7 +29,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1.</p>
   <figcaption>Figure 3. CaF team (AB,BH,HJW,AM).</figcaption>
   </figure>
   <p>
-Dr. Hannah Williams(https://www.durham.ac.uk/staff/hannah-williams4/) (she/her)  --  PI<br>
+[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/) (she/her)  --  PI<br>
 Dr. Alex Matthies (they/them)  --  PDRA  <br>
 Miss Bethan Humphreys (she/her)  --  PhD student  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
