@@ -31,3 +31,7 @@ Miss Bethan Humphreys (she/her)  --  PhD student  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
 Mr Keelan Sloan  (he/him)  --  MSci student  <br>
 Mr Andrew Elwood  (he/him)  --  MSci student  
+
+## PhD and PDRA positions available
+
+Email Hannah at hannah.williams4@durham.ac.uk if you are interested.
