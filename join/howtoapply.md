@@ -7,7 +7,9 @@ subtitle: How to apply for a PhD
  
 A PhD in physics provides you with problem solving and analytical skills which can be applied to a range of careers. A PhD from the QLM group will provide you with expert training in AMO and quantum physics.
  
-We recruit yearly for PhD students to join our group, research places are available across the experimental and theory teams. For further information contact team leaders or [Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/) (post-graduate rep).
+We recruit yearly for PhD students to join our group, research places are available across the experimental and theory teams. For further information contact team leaders or [Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/) (PG Admissions Tutor - QLM).
+
+Durham PG Open Day will take place on Wednesday 29th November. Book on [Here](https://www.durham.ac.uk/visit-us/open-days/postgraduate/pg-open-day/).
  
 ## How to apply:
               
