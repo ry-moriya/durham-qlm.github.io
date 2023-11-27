@@ -34,6 +34,7 @@ navbar-links:
     - Quantum Technologies: "research/tech"
     - Thermal Vapours: "research/vapours"
   Groups:
+    - CaF Group: "research/coldmol/cafcool"
     - Cornish Group: "https://cornishgroup.github.io/"
     - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
