@@ -17,6 +17,6 @@ Michaelmas term
 |08/11/2023|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2023 Michaelmas/Kai Voges">Developing a hybrid tweezer array of ultracold molecules and Rydberg atoms</a>|Kai Voges    |Imperial College, London |
 |15/11/2023|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2023 Michaelmas/Amita Deb">Optical response of a quantum degenerate gas</a>|Amita Deb    |University of Birmingham |
 |22/11/2023|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2023 Michaelmas/Jutta Toscano">Manoeuvring chemical reactions one degree of freedom at a time</a>|Jutta Toscano    |University of Basel |
-|29/11/2023|12pm-1pm|OCW017|TBA|Felipe Herrera    |University of Santiago |
+|29/11/2023|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2023 Michaelmas/Felipe Herrera">How do chemical bonds break in ultrastrong coupling?</a>|Felipe Herrera    |University of Santiago |
 
 
