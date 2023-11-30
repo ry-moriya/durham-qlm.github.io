@@ -6,7 +6,7 @@ subtitle: Engaging with the general public and local community
 
 Part of our role as researchers is to carry out public outreach activities to share our knowledge and passion for science. We want to help wider audiences understand what it is we do, what impacts this can have on everyday life and, most of all, inspire young people to get involved in science.
 
-We are involved in, and organise many events throuhgout the year. These include:{{ site.url }}{{ site.baseurl }}
+We are involved in, and organise many events throughout the year.
 
 ## World of atoms
 <img src="{{ site.url }}{{ site.baseurl }}/outreach/img/Oxclose.jpeg" alt="Photo of workbooks from Oxclose Primary" align = "right" width = 400 px
