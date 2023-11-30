@@ -11,7 +11,7 @@ We are involved in, and organise many events throuhgout the year. These include:
 ## World of atoms
 <img src="{{ site.url }}{{ site.baseurl }}/outreach/img/Oxclose.jpeg" alt="Photo of workbooks from Oxclose Primary" align = "right" width = 400 px
   />
-[World of atoms] (https://www.worldofatoms.com/)   is a workshop to introduce 8 to 10 year old children to the beauty of atoms and their intricate interactions with light - brought to life with discussion, art, experiment, poetry and dance. Feedback from children includes: <br> 
+[World of atoms](https://www.worldofatoms.com/)   is a workshop to introduce 8 to 10 year old children to the beauty of atoms and their intricate interactions with light - brought to life with discussion, art, experiment, poetry and dance. Feedback from children includes: <br> 
 _I enjoyed writing about the elements and atoms, I enjoyed it all. <br> 
 I liked learning about the periodic table._ <br>
 Photo from Oxclose Primary School 2022. <br>
