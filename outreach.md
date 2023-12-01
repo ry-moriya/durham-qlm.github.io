@@ -20,7 +20,7 @@ If you would like to host a workshop email Hannah at hannah.williams4@durham.ac.
 ## Schools' Science Festival
 <img src="{{ site.url }}{{ site.baseurl }}/outreach/img/Oxclose.jpeg" alt="Photo of workbooks from Oxclose Primary" align = "right" width = 400 px
   />
-The [Schools' Science Festival]([https://www.durham.ac.uk/departments/academic/science/science-engagement/working-with-schools/durham-schools-science-festival/)) is an annual outreach event held at Durham University that offers a range of fun science activities for school students from across the North East. Each activity is organised by a different research group from the University's science departments, with QLM being one of the contributors.
+The [Schools' Science Festival](https://www.durham.ac.uk/departments/academic/science/science-engagement/working-with-schools/durham-schools-science-festival/) is an annual outreach event held at Durham University that offers a range of fun science activities for school students from across the North East. Each activity is organised by a different research group from the University's science departments, with QLM being one of the contributors.
 
 <!--<img src="/assets/img/laserflame.png" alt="Laser flam experiment" />-->
 
