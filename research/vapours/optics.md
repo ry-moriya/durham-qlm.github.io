@@ -7,7 +7,7 @@ subtitle:
 
 ## Papers of interest
 1. Thomas P Ogden, K A Whittaker, J Keaveney, S A Wrathmall, C S Adams, R M Potvliege
-[Phys. Rev. Lett. **123**, 243604 (2019).(http://dx.doi.org/%10.1103/physrevlett.123.243604)
+[Phys. Rev. Lett. **123**, 243604 (2019).](https://doi.org/10.1103/PhysRevLett.123.243604))
 
 ## Team members
 |**Name**|
