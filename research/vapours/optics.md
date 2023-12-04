@@ -6,8 +6,8 @@ subtitle:
 ## Overview
 
 ## Papers of interest
-1. Robertus  Erdélyi, Marianna B.  Korsós, Xin  Huang, Yong  Yang, Danielle  Pizzey, Steven A.  Wrathmall, Ifan G.  Hughes, Martin J.  Dyer, Vikram S.  Dhillon, Bernadett  Belucz, Roman  Brajša, Piyali  Chatterjee, Xuewu  Cheng, Yuanyong  Deng, Santiago Vargas  Domínguez, Raúl  Joya, Peter  Gömöry, Norbert G.  Gyenge, Arnold  Hanslmeier, Ales  Kucera, David  Kuridze, Faquan  Li, Zhong  Liu, Long  Xu, Mihalis  Mathioudakis, Sarah  Matthews, James R.T.  McAteer, Alexei A.  Pevtsov, Werner  Pötzi, Paolo  Romano, Jinhua  Shen, János  Temesváry, Andrey G.  Tlatov, Charles  Triana, Dominik  Utz, Astrid M.  Veronig, Yuming  Wang, Yihua  Yan, Teimuraz  Zaqarashvili, Francesca  Zuccarello
-*J. Space Weather Space Clim.* **12** 2 (2022), [DOI: 10.1051/swsc/2021025](DOI: 10.1051/swsc/2021025)
+1. Thomas P Ogden, K A Whittaker, J Keaveney, S A Wrathmall, C S Adams, R M Potvliege
+*Phys. Rev. Lett.* **123** 243604 (2019), [DOI: 10.1103/physrevlett.123.243604](DOI: 10.1103/physrevlett.123.243604)
 
 ## Team members
 |**Name**|
