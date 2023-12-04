@@ -6,5 +6,7 @@ subtitle:
 ## Overview
 
 ## Team members
-|**Name**|   |
-|[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|   |
+|**Name**|
+|--------|
+|[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
+|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/)|
