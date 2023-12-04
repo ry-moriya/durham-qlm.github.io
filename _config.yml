@@ -29,7 +29,7 @@ navbar-links:
   Research Themes:
     - Quantum Fluids and Atom-Light Interactions: "research/qfali"
     - Cold Molecules: "research/coldmol"
-    - Quantum Computing: "research/quantcomp"
+#    - Quantum Computing: "research/quantcomp"
     - Rydberg Systems: "research/rydberg"
     - Quantum Technologies: "research/tech"
     - Thermal Vapours: "research/vapours"
