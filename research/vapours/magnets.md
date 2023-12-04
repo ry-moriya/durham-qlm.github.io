@@ -42,7 +42,7 @@ J Keaveney, FS Ponciano-Ojeda, SM Rieche, MJ Raine, DP Hampshire, Ifan G Hughes
 
 * [Clare Higgins](http://etheses.dur.ac.uk/14829/)
 * [Francisco Ponciano-Ojeda](http://etheses.dur.ac.uk/14065/)
-* [Renju Matthew])http://etheses.dur.ac.uk/13903/)
+* [Renju Matthew](http://etheses.dur.ac.uk/13903/)
 
 ## Team members
 
