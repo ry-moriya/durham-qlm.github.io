@@ -19,5 +19,5 @@ See also a brief summary of the projects in this [video](https://www.youtube.com
 |[Nano Cells](/research/vapours/nanocell)|   |
 |[Quantum Optics in Atomic Vapours](/research/vapours/optics_expt)|   |
 |[Solar filters](/research/vapours/solar)|   |
-|[Thermal Rydberg Atoms](/research/vapours/thermal_ryd)|   |
 |[Theory of Quantum Optics in Atomic Vapours](/research/vapours/optics)|   |
+|[Thermal Rydberg Atoms](/research/vapours/thermal_ryd)|   |
