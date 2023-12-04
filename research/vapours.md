@@ -13,7 +13,7 @@ See also a brief summary of the projects in this [video](https://www.youtube.com
 ## Current activities
 
 |**Title**|   |
-|Quantum Optics in Atomic Vapours](/research/vapours/optics_expt)|   |
+|[Quantum Optics in Atomic Vapours](/research/vapours/optics_expt)|   |
 |[Solar filters](/research/vapours/solar)|   |
 |[Atoms, Lasers and Magnets](/research/vapours/magnets)|   |
 |[Elecsus](/research/vapours/elecsus)|   |
