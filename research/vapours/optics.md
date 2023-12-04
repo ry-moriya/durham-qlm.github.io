@@ -5,7 +5,7 @@ subtitle:
 ---
 ## Overview
 
-![](optics/img/46state_08_pulse_02kW_composite-eps-converted-to.pdf) <br>
+![](optics/img/46state_08_pulse_02kW_composite-eps-converted-to-.pdf) <br>
 *Non linear optical waves in a Rb vapour and formation of simultons under bichromatic excitation*
 
 It has been long known that very intense light sources can create self-reinforcing pulses of light called solitons, which can propagate through an opaque medium as though it were nearly transparent. Two-colour solitons, called simultons, can also be created by combining a weak signal with an intense pulse of a different wavelength, but it is only recently that this fact has been demonstrated in an atomic vapour. Remarkably, these simultons form because of a complex non-linear interaction between the two fields mediated by the atoms. We are planning to study the theory of this effect in depth, and to explore the possibilities offered by simultons for developing new ways of controlling how light interacts with light.
