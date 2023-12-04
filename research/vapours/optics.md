@@ -17,6 +17,7 @@ It has been long known that very intense light sources can create self-reinforci
 [Physical Review Letters **123**, 243604 (2019).](https://doi.org/10.1103/PhysRevLett.123.243604)
 
 ## Team members
+
 |**Name**|
 |--------|
 |[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
