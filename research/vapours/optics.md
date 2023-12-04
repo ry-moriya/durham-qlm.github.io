@@ -21,3 +21,9 @@ It has been long known that very intense light sources can create self-reinforci
 |--------|
 |[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
 |[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/)|
+
+|**Name**|
+|--------|
+|[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
+|[Dr. Dani Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
+|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/)|
