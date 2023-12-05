@@ -33,7 +33,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
     </tr>
     <tr>
         <td>
-            <a href="https://www.cornishlabs.uk/csyb">CsYb: Magnetic Polar Molecules</a>
+            <a href="https://www.cornishlabs.uk/csyb">CsYb: quantum degenerate mixtures and magnetic molecules</a>
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/csyb/img/Yb_MOT.jpg" alt="CsYb"/></td>
     </tr>
