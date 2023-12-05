@@ -9,5 +9,5 @@ We have a range of experimental and theoretical projects on Quantum Fluids and A
 
 |**Title**|   |
 |[Theory of Quantum Fluids and Atom-Light Interactions](/research/qfali/theory)|   |
-|[Dilute beyond mean-field quantum fluids](beyond)|  |
+|[Dilute beyond mean-field quantum fluids](https://www.cornishlabs.uk/csyb)|  |
 
