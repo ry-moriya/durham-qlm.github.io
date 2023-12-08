@@ -18,8 +18,9 @@ Each week begins with our group meeting, when each team member is given the oppo
 external speakers. These is also the opportunity to travel and attend international conferences and meet researchers from around the world. These are just some of the 
 opportunities and benefits available to members of the group. <br>
 
-We have a selection of funded PhD projects available, and further opportunities which are likely to receive funding for an October 2024 start. We hope that you will join us
-and become a part of the QLM!<br>
+We have a selection of funded PhD projects available, and further opportunities which are likely to receive funding for an October 2024 start. In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
+
+We hope that you will join us and become a part of the QLM!<br>
 
 ## Funded Projects
 <table border=0>
@@ -91,7 +92,25 @@ The goal of this project is to help develop such a quantum up-converter using a 
 <a href="https://durham-qlm.uk/research/vapours/magnets/">Further information available here</a> or contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Hughes</a>.
       <td width=300 align=center><img src="img/vector light.PNG" alt="Structured light fields." /></td>
 </td>
-  
 </tr>
+
+  <tr>
+	<td>
+ **Laser cooling molecules for quantum simulation**<br>
+Laser-cooled molecules offer new opportunities in quantum science and technology. By using closed cycling transitions we are able to decelerate, trap, cool and detect molecules. The goal of this experiment is to load a lattice of ultracold calcium monofluoride molecules to be used as a platform for quantum simulation. These molecules experience large, anisotropic dipole-dipole interactions, and high levels of control over internal and external degrees of freedom have already been demonstrated. This is an experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology.<br>
+<a href="https://durham-qlm.uk/research/coldmol/cafcool/">Further information available here</a> or contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Williams</a>.
+<td width=300 align=center><img src="img/CaF.png" alt="Buffer gas course for CaF molecules" /></td>	  
+ </td>
+  </tr>
+<tr>
+<td>
+**Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules** <br>
+We have the only experiment in the world studying ultracold atomic mixtures of Cs and Yb. This combination of elements is exceptionally rich and offers unique opportunities for independently controlling the individual gases. In this project you will exploit these properties to study the quantum dynamics of dual-species Bose-Einstein condensates and to investigate new ways to assemble the atoms into heteronuclear molecules.<br>
+<a href="https://www.cornishlabs.uk/csyb">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
+      <td width=300 align=center><img src="../research/coldmol/csyb/img/Yb_MOT.jpg" alt="Magneto-optical trap of Yb." /></td>
+	
+</td>
+</tr>
+
   
 </table>
