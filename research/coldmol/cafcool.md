@@ -4,7 +4,7 @@ title: Laser cooling CaF molecules
 subtitle:
 ---
 ## Overview
-<img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/annotated_source_small.png" alt="Buffer gas source image" align = "right"
+<img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/annoted source full.png" alt="Buffer gas source image" align = "right"
   />
 In our lab we are working on **direct laser cooling** of calcium monofluoride (CaF) molecules. <br>
 The complex internal level structure of molecules may make them seem a daunting prospect to control. However, here at Durham we are building an experiment to produce ultracold, controlled CaF molecules.<br>
