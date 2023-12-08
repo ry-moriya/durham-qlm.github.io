@@ -28,7 +28,7 @@ and become a part of the QLM!<br>
       	**High Speed Terahertz Imaging using Rydberg Atoms.**<br>
 The terahertz (THz) frequency band lies between the infrared and microwave regions of the electromagnetic spectrum. Because THz radiation is non-ionising and passes through materials such as paper, cloth, and   plastics, it finds applications including security screening, biomedical imaging, and production-line monitoring. The THz region has traditionally been a difficult frequency range to work in because it falls between ranges of electronic and photonic devices - This is known as the ‘terahertz gap’ and although significant progress has been made to close this gap, applications are still limited by the low power output of THz sources and the low speed and sensitivity of THz detectors. In Durham, we have recently developed a new technology for terahertz imaging that uses Rydberg atoms to convert terahertz radiation to optical fluorescence. This has allowed unprecedented speed and sensitivity in image acquisition. This experimental Ph.D. project will push our technology to the next level by using laser pulse sequences to allow very short exposure images. This will allow very fast phenomena, such as shockwaves, to be studied in optically opaque media. The work is linked to the National Quantum Technology Hub programme and Industrial partners.<br>
 <a href="https://durham-qlm.uk/research/tech/terahertz/">Further information available here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.
-      <td width=400 align=center><img src="img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" /></td>
+      <td width=300 align=center><img src="img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" /></td>
 </td>
   </tr>
 
@@ -37,7 +37,7 @@ The terahertz (THz) frequency band lies between the infrared and microwave regio
       	**Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.**<br>
 The rich rotational structure of molecules offers an unrivalled playground for the encoding of spins and synthetic dimensions which can be precisely controlled using microwave fields. We have recently demonstrated record-breaking rotational coherences in a novel magic-wavelength trap. In this project you will exploit this capability to study models of quantum magnetism with spins encoded in the rotational states of RbCs molecules and interactions controlled through the combination of states and applied fields.<br>
 <a href="https://www.cornishlabs.uk/rbcs">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
-      <td width=400 align=center><img src="../research/coldmol/rbcs/img/intro.png" alt="" /></td>
+      <td width=300 align=center><img src="../research/coldmol/rbcs/img/intro.png" alt="" /></td>
 </td>
   </tr>
 
@@ -48,8 +48,50 @@ The rich rotational structure of molecules offers an unrivalled playground for t
             Ultracold gases of atoms and molecules are an important resource for the precise experimental study of quantum mechanics. In these experiments, dipole-dipole interactions can be used to engineer long-range and tunable interactions between particles, thereby enabling the study of complex many-body phenomena. In this project, we will develop a new apparatus for the study of dipolar quantum gases. This will include an exploration of laser cooling and optical trapping of atoms, and the study of collisions and interactions in atomic mixtures.<br>
             This is a new experimental project, for further information contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Gregory</a>.
   </td>
-         <td width=400 align=center><img src="img/dipole.jpg" alt="Lasers and optics typical of ultracold experiments" /></td>
+         <td width=300 align=center><img src="img/dipole.jpg" alt="Lasers and optics typical of ultracold experiments" /></td>
     </tr>
-    
+
+  <tr>
+    <td>
+      	**Many-body physics of polar molecules in a quantum gas microscope.**<br>
+Quantum gas microscopes have revolutionized the study of ultracold atomic gases in optical lattice, enabling the detection of individual atoms with single site resolution. In this project you will develop and apply the technique to ultracold RbCs molecules, using it to study strongly correlated phases of molecules in the presence of long-range dipole-dipole interactions.<br>
+<a href="https://www.cornishlabs.uk/microscope">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
+      <td width=300 align=center><img src="img/Microscope.jpg" alt="Optics and chamber in microscope lab." /></td>
+</td>
+  </tr>
+
+<tr>
+  <td>
+      	**Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.**<br>
+	We have pioneered a new approach to forming ultracold RbCs molecules. We take single atoms of Rb and Cs confined in separate optical tweezers, cool them to motional ground state of their respective traps and then carefully combine them to form a molecule in the rovibrational ground state. In this project you will investigate how to combine the molecules with Rydberg atoms in order to perform non-destructive readout of the molecular state and to engineer quantum entanglement between pairs of molecules.<br>
+<a href="https://www.cornishlabs.uk/tweezers">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
+      <td width=300 align=center><img src="img/Tweezers.png" alt="Optics layout for tweezer experiment." /></td>
+</td>
+  </tr>
 </table>
 
+## Further Opportunities
+
+<table>
+<tr>
+    <td>
+      	**Quantum Networks with Rydberg excitons**<br>
+	Many quantum computers use superconducting circuits. Operating at microwave frequencies, these chips must be cooled to a few millikelvin to avoid decoherence from thermal radiation. This makes a network of such quantum computers difficult to realise. A promising alternative is to up-covert the quantum information to the optical region, and send it down conventional optical fibres.
+The goal of this project is to help develop such a quantum up-converter using a beautiful piece of physics at the crossover between atomic and condensed matter physics. In a semiconductor called cuprous oxide, electrons and holes bind together to form quasi-particles called excitons, which have internal states just like atoms. With strong coupling to microwave fields and light at low temperature, we are exploring the quantum limits of what can be achieved with this technology.<br>
+<a href="https://durham-qlm.uk/research/rydberg/excitons/">Further information available here</a> or contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Jones</a>.
+      <td width=300 align=center><img src="../research/rydberg/excitons/img/stone.png" alt="Natural cuprous oxide gemstone." /></td>
+</td>
+  </tr>
+  
+<tr>
+  <td>
+	**Vector Light project**<br>
+	The Durham Quantum Light and Matter group is internationally leading on experiments in the field of spectroscopy of atomic vapours.   Most treatments of the propagation of light through a medium assume that the     polarisation vector is two dimensional, i.e. restricted to the transverse plane. Recent study has shown that far more interesting and useful three-dimensional structures can be obtained by tightly focussing a       laser beam. We have shown in Durham that using shaped light enables the production of topologically non-trivial polarization. <br>
+  The objective of this project is to analyse the spectrum of Rb vapour in large magnetic fields (we have our own 1.5 Tesla permanent magnet with different polarization states. The goals of the project are: (i) a     complete characterization of the spectroscopy of Rb vapour in large magnetic fields with tightly focussed fields; (ii) to investigate the interaction of atoms with topological light; (iii) explore the     possibilities of producing next generation sensors based on the interaction of structured light with atomic media.<br>
+<a href="https://durham-qlm.uk/research/vapours/magnets/">Further information available here</a> or contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Hughes</a>.
+      <td width=300 align=center><img src="img/vector light.PNG" alt="Structured light fields." /></td>
+</td>
+  
+</tr>
+  
+</table>
