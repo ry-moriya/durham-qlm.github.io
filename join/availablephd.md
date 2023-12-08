@@ -3,6 +3,10 @@ layout: page
 title: Join QLM
 subtitle: Opportunities to join as graduate students
 ---
+
+<img src="img/PhDs Nov 23.jpg" alt="" align = "centre"
+  />
+  {{ site.url }}{{ site.baseurl }}
 When you join Durham Quantum Light and Matter (QLM) as a PhD or Master by research student, you’ll become a member of a friendly research section home to almost 50 members, 
 including permanent staff, research fellows, research associates and PhD students. <br>
 
