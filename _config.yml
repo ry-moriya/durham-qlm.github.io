@@ -42,7 +42,7 @@ navbar-links:
     - Seminars: "seminars"
     - Group Meeting: "gmeetings"
     - Social Events: "socials"
-  Publications: "publications/"
+#  Publications: "publications/"
   Outreach: "outreach/"
   Members: 
     - Current: "members/current"
