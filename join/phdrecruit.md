@@ -53,7 +53,7 @@ We have a selection of funded PhD projects available, including further opportun
 
 We hope that you will join us and become a part of the QLM!<br>
 
-## Allocated Projects
+## Prioritized Projects
 <table border=0>
   <tr>
     <td>
