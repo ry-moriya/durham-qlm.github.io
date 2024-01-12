@@ -1,10 +1,25 @@
 ---
 layout: page
-title: Strontium Quantum Clock
-subtitle:
+title: Sr Quantum Clock
+subtitle: Strontium Atomic Clock
 ---
-## Overview
-![Strontium atoms loaded into a magic wavelength tweezer array.](strontium/img/ClockArray.png)
+## Introduction To Strontium Atomic Clock
+Clocks use a physical phenomenon as a reference to keep track of time. For example, a pendulum clock uses the time it takes for a swinging weight to complete a cycle as a reference to count time. 
+
+In the modern age, the most accurate time-keeping system is the atomic clock: these reference the transition frequency of atoms to keep track of time.
+
+Several different species of atoms can be used to create an atomic clock such as Rubidium and Caesium. However, Strontium atomic clocks are considered to be one of the most precise and have been experimentally demonstrated to have a fractional frequency uncertainty in the order of ~![](https://latex.codecogs.com/svg.image?\mathrm{10^{-19}s^{-1}}). To put this in perspective, the clock must run longer than the age of the universe for there to be an error of ~1 second in timekeeping!
+
+![](strontium/img/strontium-energy-level.png)
+
+This is possible due to a fundamental property of the Strontium’s atomic levels. Traditionally, certain atomic transitions are forbidden under the [‘selection’ rules](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Fundamentals_of_Spectroscopy/Selection_rules_and_transition_moment_integral). However, these selection rules are broken and weakly allowed due to state mixing between energy levels when considering different [angular momentum coupling regimes](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Book%3A_Quantum_States_of_Atoms_and_Molecules_(Zielinksi_et_al)/08%3A_The_Hydrogen_Atom/8.08%3A_Coupling_of_Angular_Momentum_and_Spectroscopic_Term_Symbols#:~:text=There%20are%20two%20descriptions%20for,R%2DS%20or%20Russell%2DSaunders%20coupling.) and the presence of a magnetic field. This produces very narrow linewidths (the ‘thickness’ of the energy level transition) that require a very precise frequency of light to drive the transition and therefore make an excellent reference for timekeeping.
+
+## What We Do
+### Our Research Focus
+Our research focuses on using the Strontium atomic clock transitions to study methods to improve the precision of atomic clocks and to perform high-precision measurements and spectroscopy by using the atom’s Rydberg series. 
+
+### Our Experiment
+We have a dedicated experiment to achieve our goals. We initially have a heated sample of ~![](https://latex.codecogs.com/svg.image?\mathrm{^{88}Sr}) atoms at 700K. We proceed to cool them down in the order of ~![](https://latex.codecogs.com/svg.image?\mathrm{\mu&space;K}) by using lasers to slow down the atoms to ~![](https://latex.codecogs.com/svg.image?\mathrm{0.02\,ms^{-1}}) and then spatially trap them using lasers and magnets. This is known as a Magneto-optical trap (MOT). 
 
 ## Apply Now!
 If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
@@ -16,7 +31,7 @@ If you are interested in joining the team or finding out more, please contact m.
 - [Dr. Matthew Hill](https://www.durham.ac.uk/staff/matthew-hill2/) (Postdoctoral Research Associate)
 - [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Postdoctoral Research Associate)
 - [Mitch Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/) (PhD student)
-- Ryuji Moriya (PhD student) <br>
+- [Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/) (PhD student) <br>
 
 ## Selected publications
 1. E. J. Robertson, N. Šibalić, R.M. Potvliege, and M. P. A. Jones, *ARC 3.0: An expanded Python toolbox for atomic physics calculations*, [Computer Physics Communications **261**, 107814 (2021).](https://doi.org/10.1016/j.cpc.2020.107814)
