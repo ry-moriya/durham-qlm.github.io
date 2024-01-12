@@ -25,7 +25,7 @@ This is possible due to a fundamental property of the Strontium’s atomic level
 Our research focuses on using the Strontium atomic clock transitions to study methods to improve the precision of atomic clocks and to perform high-precision measurements and spectroscopy by using the atom’s Rydberg series. 
 
 ### Our Experiment
-We have a dedicated experiment to achieve our goals. We initially have a heated sample of ~![](https://latex.codecogs.com/svg.image?\mathrm{^{88}Sr}) atoms at 700K. We proceed to cool them down in the order of ~![](https://latex.codecogs.com/svg.image?\mathrm{\mu&space;K}) by using lasers to slow down the atoms to ~![](https://latex.codecogs.com/svg.image?\mathrm{0.02\,ms^{-1}}) and then spatially trap them using lasers and magnets. This is known as a Magneto-optical trap (MOT). 
+We have a dedicated experiment to achieve our goals. We initially have a heated sample of ![](https://latex.codecogs.com/svg.image?\mathrm{^{88}Sr}) atoms at 700K. We proceed to cool them down in the order of microkelvin by using lasers to slow down the atoms to ![](https://latex.codecogs.com/svg.image?\mathrm{0.02ms^{-1}}) and then spatially trap them using lasers and magnets. This is known as a Magneto-optical trap (MOT). 
 
 <br>
 
@@ -51,7 +51,7 @@ Once the atoms are in a MOT, we prepare a 2D array of highly programmable optica
 
 <br>
 
-After inserting the atoms into the tweezer sites, we can perform precise measurements through magnetically induced spectroscopy. Here, we shine a 698 nm laser to induce a transition into the 3P_0 state (see fig. 1) and observe its absorption spectrum. We are one of the very first UK research groups to experimentally observe this transition.
+After inserting the atoms into the tweezer sites, we can perform precise measurements through magnetically induced spectroscopy. Here, we shine a 698 nm laser to induce a transition into the ![](https://latex.codecogs.com/svg.image?\mathrm{^{3}P_{0}) state (see fig. 1) and observe its absorption spectrum. We are one of the very first UK research groups to experimentally observe this transition.
 
 <br>
 
