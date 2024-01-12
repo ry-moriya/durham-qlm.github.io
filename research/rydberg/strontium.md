@@ -90,7 +90,6 @@ If you are interested in joining the team or finding out more, please contact m.
 
 - [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (Principal investigator)
 - [Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (Co-investigator)
-- [Dr. Matthew Hill](https://www.durham.ac.uk/staff/matthew-hill2/) (Postdoctoral Research Associate)
 - [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Postdoctoral Research Associate)
 - [Mitch Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/) (PhD student)
 - [Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/) (PhD student) <br>
