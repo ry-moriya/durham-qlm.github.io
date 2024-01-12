@@ -1,11 +1,8 @@
 mkdir -p qfali/beyond/img
-mkdir -p coldmol/groundstate/img
-mkdir -p coldmol/polar/img
-mkdir -p coldmol/fermionic/img
+mkdir -p coldmol/rbcs/img
+mkdir -p coldmol/csyb/img
 mkdir -p coldmol/tweezers/img
 mkdir -p coldmol/microscope/img
-mkdir -p coldmol/potentials/img
-mkdir -p coldmol/scattering/img
 mkdir -p coldmol/collisions/img
 mkdir -p coldmol/cafcool/img
 mkdir -p quantcomp/devices/img
@@ -28,13 +25,6 @@ mkdir -p vapours/thermal_ryd/img
 mkdir -p vapours/nanocell/img
 mkdir -p vapours/calcs/img
 touch qfali/beyond.md
-touch coldmol/groundstate.md
-touch coldmol/polar.md
-touch coldmol/fermionic.md
-touch coldmol/tweezers.md
-touch coldmol/microscope.md
-touch coldmol/potentials.md
-touch coldmol/scattering.md
 touch coldmol/collisions.md
 touch coldmol/cafcool.md
 touch quantcomp/devices.md
@@ -57,13 +47,10 @@ touch vapours/thermal_ryd.md
 touch vapours/nanocell.md
 touch vapours/calcs.md
 touch qfali/beyond/.placeholder
-touch coldmol/groundstate/.placeholder
-touch coldmol/polar/.placeholder
-touch coldmol/fermionic/.placeholder
+touch coldmol/rbcs/.placeholder
+touch coldmol/csyb/.placeholder
 touch coldmol/tweezers/.placeholder
 touch coldmol/microscope/.placeholder
-touch coldmol/potentials/.placeholder
-touch coldmol/scattering/.placeholder
 touch coldmol/collisions/.placeholder
 touch coldmol/cafcool/.placeholder
 touch quantcomp/devices/.placeholder
@@ -86,13 +73,10 @@ touch vapours/thermal_ryd/.placeholder
 touch vapours/nanocell/.placeholder
 touch vapours/calcs/.placeholder
 touch qfali/beyond/img/.placeholder
-touch coldmol/groundstate/img/.placeholder
-touch coldmol/polar/img/.placeholder
-touch coldmol/fermionic/img/.placeholder
+touch coldmol/rbcs/img/.placeholder
+touch coldmol/csyb/img/.placeholder
 touch coldmol/tweezers/img/.placeholder
 touch coldmol/microscope/img/.placeholder
-touch coldmol/potentials/img/.placeholder
-touch coldmol/scattering/img/.placeholder
 touch coldmol/collisions/img/.placeholder
 touch coldmol/cafcool/img/.placeholder
 touch quantcomp/devices/img/.placeholder

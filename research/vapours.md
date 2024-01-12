@@ -13,10 +13,11 @@ See also a brief summary of the projects in this [video](https://www.youtube.com
 ## Current activities
 
 |**Title**|   |
-|[Quantum Optics in Atomic Vapours](/research/vapours/optics)|   |
-|[Solar filters](/research/vapours/solar)|   |
+|[Atomic properties calculations](/research/vapours/calcs)|   |
 |[Atoms, Lasers and Magnets](/research/vapours/magnets)|   |
 |[Elecsus](/research/vapours/elecsus)|   |
-|[Thermal Rydberg Atoms](/research/vapours/thermal_ryd)|   |
 |[Nano Cells](/research/vapours/nanocell)|   |
-|[Atomic properties calculations](/research/vapours/calcs)|   |
+|[Quantum Optics in Atomic Vapours](/research/vapours/optics_expt)|   |
+|[Solar filters](/research/vapours/solar)|   |
+|[Theory of Quantum Optics in Atomic Vapours](/research/vapours/optics)|   |
+|[Thermal Rydberg Atoms](/research/vapours/thermal_ryd)|   |

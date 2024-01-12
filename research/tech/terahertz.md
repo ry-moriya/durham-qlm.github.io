@@ -18,7 +18,7 @@ subtitle: THz Sensing and Imaging using Rydberg Atoms
     </iframe>
 </div>
 
-## Papers of interest
+## Recent Papers
 - <span style="color:blue">**NEW**</span> **A practical guide to terahertz imaging using thermal atomic vapour.** *Lucy A Downes et al.* 2023 [New J. Phys. 25 035002](https://iopscience.iop.org/article/10.1088/1367-2630/acb80c/meta){:target="_blank"}
 
 ## Team members
@@ -28,6 +28,7 @@ subtitle: THz Sensing and Imaging using Rydberg Atoms
 |[Prof. Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/)|
 |[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
 |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
+|[Dr. Matthew Jamieson](https://www.durham.ac.uk/staff/matthew-j-jamieson/)|
 |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |[Mr Gianluca Allinson ](https://www.durham.ac.uk/staff/gianluca-allinson/)|
 |[Mr. Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
